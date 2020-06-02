@@ -101,7 +101,7 @@
         "github_url": "https://github.com/docusign/docusign-soap-sdk",
         "display_name": "DocuSign SOAP SDK",
         "description": "Wraps the DocuSign eSignature SOAP API in 5 different languages: Java, C#, PHP, Ruby, Salesforce (Apex)",
-        "language": "java",
+        "language": "soap",
         "tags": ["opensource", "sdk", "java", "esignature"]
       },
       {
