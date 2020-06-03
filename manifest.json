@@ -639,8 +639,8 @@
         "github_url": "https://github.com/docusign/sample-app-loanco-nodejs",
         "display_name": "LoanCo Sample App",
         "description": "LoanCo is a sample app that illustrates various API workflows and features focused on the banking industry",
-        "language": "html",
-        "tags": [ "opensource", "html", "javascript", "node", "tool" ]
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "html"]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyNTE0NDU1NTg=",
@@ -648,8 +648,8 @@
         "github_url": "https://github.com/docusign/sample-app-myuni-python",
         "display_name": "MyUni Sample App",
         "description": "MyUni is a sample app that illustrates various API workflows and features focused on the education industry",
-        "language": "html",
-        "tags": [ "opensource", "html", "javascript", "node", "tool" ]
+        "language": "python",
+        "tags": [ "opensource", "python", "javascript", "html" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyNjM3MDQ4MTU=",
@@ -657,8 +657,8 @@
         "github_url": "https://github.com/docusign/sample-app-mysure-python",
         "display_name": "MySure Sample App",
         "description": "MySure is a sample app that illustrates various API workflows and features focused on the insurance industry",
-        "language": "html",
-        "tags": [ "opensource", "html", "javascript", "node", "tool" ]
+        "language": "python",
+        "tags": [ "opensource", "python", "javascript", "html" ]
       }
     ],
     "Others": [
