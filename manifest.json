@@ -1,6 +1,6 @@
 {
-  "languages": ["java", "php", "objective-c", "c#", "javascript", "python", "apex", "html", "ruby", "shell"],
-  "categories": ["Featured", "SDKs", "Code Examples", "Tools", "Sample Apps", "Others"],
+  "languages": [ "java", "php", "objective-c", "c#", "javascript", "python", "apex", "html", "ruby", "shell", "json" ],
+  "categories": [ "Featured", "SDKs", "Code Examples", "Tools", "Sample Apps", "Others" ],
   "repositories": {
     "Featured": [
       {
@@ -10,7 +10,7 @@
         "display_name": "DocuSign Quickstart Examples for Embedded Signing",
         "description": null,
         "language": "javascript",
-        "tags": ["opensource", "javascript", "esignature", "code-examples"]
+        "tags": [ "opensource", "javascript", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2NDEyNjE=",
@@ -19,16 +19,16 @@
         "display_name": "",
         "description": "Connect listener example for AWS: Java worker app",
         "language": "java",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk3MDY0MDQyMw==",
         "github_name": "postman-esign-api-collection",
         "github_url": "https://github.com/docusign/postman-esign-api-collection",
         "display_name": "",
-        "description": "A easy guide to Getting Started with DocuSign's E-Signature API using Postman. Showcases recipes and all REST API endpoints",
+        "description": "A easy guide to getting started with the DocuSign's eSignature REST API using Postman.",
         "language": "html",
-        "tags": ["opensource", "html"]
+        "tags": [ "opensource", "html" ]
       }
     ],
     "SDKs": [
@@ -39,7 +39,7 @@
         "display_name": "DocuSign Java Client",
         "description": "The Official DocuSign Java Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.",
         "language": "java",
-        "tags": ["opensource", "java", "esignature", "client-library"]
+        "tags": [ "opensource", "java", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMzQwMzI0OA==",
@@ -48,7 +48,7 @@
         "display_name": "DocuSign PHP Client",
         "description": "The Official DocuSign PHP Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.",
         "language": "php",
-        "tags": ["opensource", "php", "esignature", "client-library"]
+        "tags": [ "opensource", "php", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyNzczNDMyMg==",
@@ -57,7 +57,7 @@
         "display_name": "DocuSign C# Client",
         "description": "The Official DocuSign C# Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.",
         "language": "c#",
-        "tags": ["opensource", "csharp", "esignature", "client-library"]
+        "tags": [ "opensource", "csharp", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkzNzU2MDAwOA==",
@@ -66,7 +66,7 @@
         "display_name": "DocuSign Node Client",
         "description": "The Official DocuSign Node.js Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.",
         "language": "javascript",
-        "tags": ["opensource", "javascript", "node", "esignature", "client-library"]
+        "tags": [ "opensource", "javascript", "node", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk0ODA3Mzc0MA==",
@@ -75,7 +75,7 @@
         "display_name": "DocuSign Objective-C Client",
         "description": "The Official DocuSign Objective-C Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.",
         "language": "objective-c",
-        "tags": ["opensource", "objc", "esignature", "client-library"]
+        "tags": [ "opensource", "objc", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk5OTc1MDA4OA==",
@@ -84,7 +84,7 @@
         "display_name": "DocuSign Python Client",
         "description": "The Official DocuSign Python Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client. https://www.docusign.com/devcenter",
         "language": "python",
-        "tags": ["opensource", "python", "esignature", "client-library"]
+        "tags": [ "opensource", "python", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDM0MzEyMDk=",
@@ -93,7 +93,7 @@
         "display_name": "DocuSign Ruby Client",
         "description": "The Official DocuSign Ruby Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.",
         "language": "ruby",
-        "tags": ["opensource", "ruby", "esignature", "client-library"]
+        "tags": [ "opensource", "ruby", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMzIxOTY4",
@@ -102,7 +102,7 @@
         "display_name": "DocuSign SOAP SDK",
         "description": "Wraps the DocuSign eSignature SOAP API in 5 different languages: Java, C#, PHP, Ruby, Salesforce (Apex)",
         "language": "soap",
-        "tags": ["opensource", "sdk", "java", "esignature"]
+        "tags": [ "opensource", "sdk", "java", "esignature" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDM2NjAwNjE=",
@@ -111,7 +111,7 @@
         "display_name": "DocuSign Native iOS SDK",
         "description": "A set of programmable client libraries that enable developers to integrate their products with DocuSign’s signature service API on iOS ",
         "language": "objective-c",
-        "tags": ["opensource", "sdk", "ios", "objc", "esignature"]
+        "tags": [ "opensource", "sdk", "ios", "objc", "esignature" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMDI3NTY3MQ==",
@@ -120,7 +120,7 @@
         "display_name": "[DEPRECATED] DocuSign iOS SDK",
         "description": "[DEPRECATED] DocuSign iOS SDK. Use docusign-native-ios-sdk @ https://github.com/docusign/native-ios-sdk instead.",
         "language": "objective-c",
-        "tags": ["sdk"]
+        "tags": [ "sdk" ]
       }
     ],
     "Code Examples": [
@@ -131,7 +131,7 @@
         "display_name": "DocuSign Quickstart Examples for Embedded Signing",
         "description": null,
         "language": "javascript",
-        "tags": ["opensource", "javascript", "esignature", "code-examples"]
+        "tags": [ "opensource", "javascript", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTAyNjA5ODI=",
@@ -140,7 +140,7 @@
         "display_name": "DocuSign Quickstart Examples for Sending an Envelope",
         "description": null,
         "language": "javascript",
-        "tags": ["opensource", "javascript", "esignature", "code-examples"]
+        "tags": [ "opensource", "javascript", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTA5NDU1MTU=",
@@ -149,7 +149,7 @@
         "display_name": "DocuSign Quickstart Examples for Listing Envelopes",
         "description": null,
         "language": "javascript",
-        "tags": ["opensource", "javascript", "esignature", "code-examples"]
+        "tags": [ "opensource", "javascript", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTIwNDI1MjM=",
@@ -158,7 +158,7 @@
         "display_name": "DocuSign Quickstart Examples for Python",
         "description": "Python quick start examples",
         "language": "python",
-        "tags": ["opensource", "python", "esignature", "code-examples"]
+        "tags": [ "opensource", "python", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTI0MDQyNzk=",
@@ -167,7 +167,7 @@
         "display_name": "DocuSign Quickstart Examples for C#",
         "description": "C# quick start examples",
         "language": "c#",
-        "tags": ["opensource", "csharp", "esignature", "code-examples"]
+        "tags": [ "opensource", "csharp", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTMwNTY5MzE=",
@@ -176,7 +176,7 @@
         "display_name": "DocuSign Quickstart Examples for PHP",
         "description": "PHP quick start examples",
         "language": "php",
-        "tags": ["opensource", "php", "esignature", "code-examples"]
+        "tags": [ "opensource", "php", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTU1NTAzMzI=",
@@ -185,7 +185,7 @@
         "display_name": "DocuSign Quickstart Examples for Curl",
         "description": "Quickstart API code examples with curl",
         "language": "shell",
-        "tags": ["opensource", "shell", "esignature", "code-examples"]
+        "tags": [ "opensource", "shell", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjE2MDI5NDY=",
@@ -194,7 +194,7 @@
         "display_name": "DocuSign Quickstart Examples for Java",
         "description": "Java quickstart examples",
         "language": "java",
-        "tags": ["opensource", "java", "esignature", "code-examples"]
+        "tags": [ "opensource", "java", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjM1ODM1OTk=",
@@ -203,7 +203,7 @@
         "display_name": "DocuSign Quickstart Examples for Ruby",
         "description": "Ruby quickstart examples",
         "language": "ruby",
-        "tags": ["opensource", "ruby", "esignature", "code-examples"]
+        "tags": [ "opensource", "ruby", "esignature", "code-examples" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2NDEyNjE=",
@@ -212,7 +212,7 @@
         "display_name": "",
         "description": "Connect listener example for AWS: Java worker app",
         "language": "java",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2NDY5MTU=",
@@ -221,7 +221,7 @@
         "display_name": "",
         "description": "Connect listener example for AWS: PHP worker app",
         "language": "php",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2NTE0Njc=",
@@ -230,7 +230,7 @@
         "display_name": "",
         "description": "Connect listener example for AWS: Python worker app",
         "language": "python",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2NjcyMzU=",
@@ -239,7 +239,7 @@
         "display_name": "",
         "description": "Connect listener example for AWS: C# worker app",
         "language": "c#",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkzODU2NzEyOQ==",
@@ -248,7 +248,7 @@
         "display_name": "",
         "description": "DocuSign Signature Appliance API Examples. The DSA is a physical product that provides True, on-premise solutions for document and data signing.",
         "language": "c#",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1MzI1NjAzNA==",
@@ -257,7 +257,7 @@
         "display_name": "",
         "description": "eSignature API Recipe that demonstrates the use of DocuSign Connect (webhook) functionality in PHP. For additional recipes see: https://github.com/docusign/docusign-rest-recipes",
         "language": "php",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1MzI1NjA1Ng==",
@@ -266,7 +266,7 @@
         "display_name": "",
         "description": "eSignature API Recipe that demonstrates the use of DocuSign Connect (webhook) functionality in Python. For additional recipes see: https://github.com/docusign/docusign-rest-recipes",
         "language": "python",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1MzMxMzkxOA==",
@@ -275,7 +275,7 @@
         "display_name": "",
         "description": "eSignature API Recipe for sending a signature request with multiple documents in Python. For additional recipes see: https://github.com/docusign/docusign-rest-recipes",
         "language": "python",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1NDQyNzY1Nw==",
@@ -284,7 +284,7 @@
         "display_name": "",
         "description": "eSignature API Recipe that demonstrates the use of DocuSign Connect (webhook) functionality in Java. For additional recipes see: https://github.com/docusign/docusign-rest-recipes",
         "language": "java",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1NDQ1MjYxNQ==",
@@ -293,7 +293,7 @@
         "display_name": "",
         "description": "eSignature API Recipe that demonstrates the use of DocuSign Connect (webhook) functionality in C#. For additional recipes see: https://github.com/docusign/docusign-rest-recipes",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1NDQ3NjgzNg==",
@@ -302,7 +302,7 @@
         "display_name": "",
         "description": "DocuSign Signature Appliance - Recipe for integrating with the Web Agent",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk2Nzk4NzA1OA==",
@@ -311,7 +311,7 @@
         "display_name": "",
         "description": "Send a DocuSign envelope via email from SFDC Apex",
         "language": "apex",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk2ODUwMjUxNw==",
@@ -320,7 +320,7 @@
         "display_name": "",
         "description": "Apex and VisualForce page example for embedded sending of a DocuSign envelope",
         "language": "apex",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk2ODUxOTg0Nw==",
@@ -329,7 +329,7 @@
         "display_name": "",
         "description": "Apex and VisualForce page example for embedded signing of a DocuSign envelope",
         "language": "apex",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk2OTI1NDEzNw==",
@@ -337,17 +337,17 @@
         "github_url": "https://github.com/docusign/sfdc-recipe-auto-provisioning",
         "display_name": "",
         "description": "A recipe example showing how to auto-provision new Salesforce Partner community members after a DocuSign approval process.",
-        "language": "python",
-        "tags": ["opensource"]
+        "language": "apex",
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk2OTI1NDI1MA==",
         "github_name": "sfdc-recipe-signing-requests",
         "github_url": "https://github.com/docusign/sfdc-recipe-signing-requests",
-        "display_name": "",
-        "description": null,
+        "display_name": "Apex toolkit examples",
+        "description": "Apex toolkit examples",
         "language": "apex",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk5ODUxNDQwMw==",
@@ -356,7 +356,7 @@
         "display_name": "",
         "description": "Recipes for using the OAuth JWT flow for Service Integrations",
         "language": "php",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDY2MDE4NDk=",
@@ -365,7 +365,7 @@
         "display_name": "",
         "description": null,
         "language": "apex",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMjY5NTEzMjA=",
@@ -374,7 +374,7 @@
         "display_name": "",
         "description": "Node.JS JWT example",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMzY3OTUxMTg=",
@@ -383,7 +383,7 @@
         "display_name": "",
         "description": "An example React application which uses the DocuSign Implicit Grant flow",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMzk4ODU3MjM=",
@@ -392,7 +392,7 @@
         "display_name": "",
         "description": "This repository will aid end users in sending envelopes from Salesforce using DocuSign eSignature for Salesforce, Apex and REST API",
         "language": "apex",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNDM4NTM5ODk=",
@@ -401,16 +401,16 @@
         "display_name": "",
         "description": "Ruby JWT Authorization example",
         "language": "ruby",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNDQxMTEzNDM=",
         "github_name": "eg-03-node-auth-code-grant",
         "github_url": "https://github.com/docusign/eg-03-node-auth-code-grant",
-        "display_name": "",
-        "description": "Node.js code examples",
+        "display_name": "Node.js code examples",
+        "description": "Node.js code examples and launcher",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNDQxNjM2MzY=",
@@ -419,7 +419,7 @@
         "display_name": "",
         "description": "PHP JWT authentication examples",
         "language": "php",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNDQyODQ2NjM=",
@@ -428,7 +428,7 @@
         "display_name": "",
         "description": "Python JWT Authorization example",
         "language": "python",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNDQ4MTIyNzQ=",
@@ -437,115 +437,115 @@
         "display_name": "",
         "description": "Java JWT example ",
         "language": "java",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTU4NDMyOTE=",
         "github_name": "eg-03-curl",
         "github_url": "https://github.com/docusign/eg-03-curl",
-        "display_name": "",
+        "display_name": "Curl (bash) code examples",
         "description": "API code examples with Curl",
         "language": "html",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTY1NDQ5MjQ=",
         "github_name": "blog-csharp-order-form",
         "github_url": "https://github.com/docusign/blog-csharp-order-form",
         "display_name": "",
-        "description": "C# .NET Core example--sending a signing request using a template",
+        "description": "C# .NET Core example-sending a signing request using a template",
         "language": "c#",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTg1MDU2NDI=",
-        "github_name": "eg-03-python-auth-code-grant",
-        "github_url": "https://github.com/docusign/eg-03-python-auth-code-grant",
-        "display_name": "",
-        "description": "Python code examples",
+        "github_name": "code-examples-python",
+        "github_url": "https://github.com/docusign/code-examples-python",
+        "display_name": "Python code examples",
+        "description": "Python code examples and launcher",
         "language": "python",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTkwMTQ3MDc=",
-        "github_name": "eg-03-csharp-auth-code-grant-core",
-        "github_url": "https://github.com/docusign/eg-03-csharp-auth-code-grant-core",
-        "display_name": "",
-        "description": "C# code examples",
+        "github_name": "code-examples-csharp",
+        "github_url": "https://github.com/docusign/code-examples-csharp",
+        "display_name": "C# code examples",
+        "description": "C# code examples and launcher",
         "language": "c#",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjAzMjI2MzE=",
-        "github_name": "eg-03-php-auth-code-grant",
-        "github_url": "https://github.com/docusign/eg-03-php-auth-code-grant",
-        "display_name": "",
-        "description": "PHP code examples",
+        "github_name": "code-examples-php",
+        "github_url": "https://github.com/docusign/code-examples-php",
+        "display_name": "PHP code examples",
+        "description": "PHP code examples and launcher",
         "language": "php",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjM5NDIzMzk=",
-        "github_name": "eg-03-ruby-auth-code-grant",
-        "github_url": "https://github.com/docusign/eg-03-ruby-auth-code-grant",
-        "display_name": "",
+        "github_name": "code-examples-ruby",
+        "github_url": "https://github.com/docusign/code-examples-ruby",
+        "display_name": "Ruby code examples",
         "description": "Ruby on Rails code examples and launcher",
         "language": "ruby",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxODg3OTU0NjQ=",
         "github_name": "connect-node-worker-gcloud",
         "github_url": "https://github.com/docusign/connect-node-worker-gcloud",
-        "display_name": "",
+        "display_name": "Connect code example - Gcloud worker",
         "description": "Connect listener example for Google Cloud: a Node.js worker app",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxODg3OTc0MTQ=",
         "github_name": "connect-node-listener-gcloud",
         "github_url": "https://github.com/docusign/connect-node-listener-gcloud",
-        "display_name": "",
+        "display_name": "Connect code example - GClooud listener",
         "description": "Connect listener example for Google Cloud: a Node.js listener",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxOTAyNDY5MTA=",
         "github_name": "connect-node-worker-azure",
         "github_url": "https://github.com/docusign/connect-node-worker-azure",
-        "display_name": "",
+        "display_name": "Connect code example - AWS worker",
         "description": "Connect listener example for Azure: a Node.js worker app",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxOTAyNDc3Mzk=",
         "github_name": "connect-node-listener-azure",
         "github_url": "https://github.com/docusign/connect-node-listener-azure",
-        "display_name": "",
+        "display_name": "Connect code example - Azure listener",
         "description": "Connect listener example for Azure: a Node.js listener",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxOTE1OTY5OTg=",
         "github_name": "connect-node-listener-aws",
         "github_url": "https://github.com/docusign/connect-node-listener-aws",
-        "display_name": "",
+        "display_name": "Connect code example - AWS listener",
         "description": "Connect listener example for AWS: a Node.js listener",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxOTE1OTc0Njk=",
         "github_name": "connect-node-worker-aws",
         "github_url": "https://github.com/docusign/connect-node-worker-aws",
-        "display_name": "",
-        "description": "Connect listener example for AWS: a Node.js worker app",
+        "display_name": "Connect code example - AWS worker",
+        "description": "Connect worker example for AWS: a Node.js worker app",
         "language": "javascript",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMDIyMTM1NDk=",
@@ -554,7 +554,7 @@
         "display_name": "",
         "description": null,
         "language": "c#",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMDIyMTQxNjg=",
@@ -563,7 +563,7 @@
         "display_name": "",
         "description": null,
         "language": "c#",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMDIyMTQzNzk=",
@@ -572,16 +572,17 @@
         "display_name": "",
         "description": null,
         "language": "c#",
-        "tags": ["opensource"]
+        "tags": []
       },
       {
+
         "node_id": "MDEwOlJlcG9zaXRvcnkyMDIzODUwMzA=",
-        "github_name": "eg-03-java-auth-code-grant",
-        "github_url": "https://github.com/docusign/eg-03-java-auth-code-grant",
-        "display_name": "",
-        "description": null,
+        "github_name": "code-examples-java",
+        "github_url": "https://github.com/docusign/code-examples-java",
+        "display_name": "Java code examples",
+        "description": "Java code examples and launcher",
         "language": "java",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
       }
     ],
     "Tools": [
@@ -592,7 +593,7 @@
         "display_name": "",
         "description": "Test DocuSign Clickwrap agreements without configuring a web server",
         "language": "html",
-        "tags": ["opensource", "tool"]
+        "tags": [ "opensource", "tool" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjgyMTMyOTI=",
@@ -601,16 +602,16 @@
         "display_name": "Shapes Browser",
         "description": "Tool for browsing the shapes on a page as returned by Page.CreateShapes",
         "language": "c#",
-        "tags": ["csharp", "tool"]
+        "tags": [ "csharp", "tool" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk2MjgwNzc3MA==",
         "github_name": "esignature-recipes-python",
         "github_url": "https://github.com/docusign/esignature-recipes-python",
         "display_name": "eSignature Recipes Python",
-        "description": "This tool includes an API logger and software examples for multiple API recipes",
+        "description": "This tool includes an API logger and software examples for multiple eSignature API recipes",
         "language": "python",
-        "tags": ["opensource", "python", "tool"]
+        "tags": [ "opensource", "python", "tool" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDQ2MTkwMTg=",
@@ -619,7 +620,7 @@
         "display_name": "DocuSign Passport",
         "description": "The official DocuSign Passport package",
         "language": "javascript",
-        "tags": ["opensource", "javascript", "tool"]
+        "tags": [ "opensource", "javascript", "tool" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMzIzNTQ4NTM=",
@@ -628,7 +629,7 @@
         "display_name": "",
         "description": "Instructions and configuration files for creating CORS gateways for DocuSign Single Page Applications.",
         "language": null,
-        "tags": ["opensource", "tool"]
+        "tags": [ "opensource", "tool" ]
       }
     ],
     "Sample Apps": [
@@ -637,9 +638,27 @@
         "github_name": "sample-app-loanco-nodejs",
         "github_url": "https://github.com/docusign/sample-app-loanco-nodejs",
         "display_name": "LoanCo Sample App",
-        "description": "LoanCo is a sample app that illustrates various API workflows and features",
+        "description": "LoanCo is a sample app that illustrates various API workflows and features focused on the banking industry",
         "language": "html",
-        "tags": ["opensource", "html", "javascript", "node", "tool"]
+        "tags": [ "opensource", "html", "javascript", "node", "tool" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNTE0NDU1NTg=",
+        "github_name": "sample-app-myuni-python",
+        "github_url": "https://github.com/docusign/sample-app-myuni-python",
+        "display_name": "MyUni Sample App",
+        "description": "MyUni is a sample app that illustrates various API workflows and features focused on the education industry",
+        "language": "html",
+        "tags": [ "opensource", "html", "javascript", "node", "tool" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNjM3MDQ4MTU=",
+        "github_name": "sample-app-mysure-python",
+        "github_url": "https://github.com/docusign/sample-app-mysure-python",
+        "display_name": "MySure Sample App",
+        "description": "MySure is a sample app that illustrates various API workflows and features focused on the insurance industry",
+        "language": "html",
+        "tags": [ "opensource", "html", "javascript", "node", "tool" ]
       }
     ],
     "Others": [
@@ -649,17 +668,17 @@
         "github_url": "https://github.com/docusign/eSign-OpenAPI-Specification",
         "display_name": "eSignature OpenAPI Swagger Specification",
         "description": "The official DocuSign eSignature REST API Swagger Specification",
-        "language": null,
-        "tags": ["opensource", "swagger"]
+        "language": "json",
+        "tags": [ "opensource", "swagger" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk3MDY0MDQyMw==",
         "github_name": "postman-esign-api-collection",
         "github_url": "https://github.com/docusign/postman-esign-api-collection",
         "display_name": "",
-        "description": "A easy guide to Getting Started with DocuSign's E-Signature API using Postman. Showcases recipes and all REST API endpoints",
+        "description": "A easy guide to Getting Started with the eSignature REST API using Postman. Showcases recipes and all REST API endpoints",
         "language": "html",
-        "tags": ["opensource", "html"]
+        "tags": [ "opensource", "html" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk5MDA2NjU1NQ==",
@@ -668,7 +687,16 @@
         "display_name": "",
         "description": "A DocuSign starter kit for Android native: API Client, Sample apps, helper functions",
         "language": "html",
-        "tags": ["opensource"]
+        "tags": [ "opensource" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNTk3Nzk0Njg=",
+        "github_name": "docusign-template-library",
+        "github_url": "https://github.com/docusign/docusign-template-library",
+        "display_name": "DocuSign template library",
+        "description": "Docusign template library to share useful templates",
+        "language": "json",
+        "tags": [ "opensource" ]
       }
     ],
     "Uncategorized": [
@@ -681,33 +709,33 @@
         "language": "c#",
         "tags": []
       },
-      {
-        "node_id": "MDEwOlJlcG9zaXRvcnkxNjA0MTc5NjM=",
-        "github_name": "soap4r",
-        "github_url": "https://github.com/docusign/soap4r",
-        "display_name": "",
-        "description": "SOAP4R is an implementation of SOAP 1.1 (W3C Note) for Ruby",
-        "language": "ruby",
-        "tags": []
-      },
-      {
-        "node_id": "MDEwOlJlcG9zaXRvcnkxODA2MjkzNDA=",
-        "github_name": "slate",
-        "github_url": "https://github.com/docusign/slate",
-        "display_name": "",
-        "description": "A completely customizable framework for building rich text editors.",
-        "language": "javascript",
-        "tags": []
-      },
-      {
-        "node_id": "MDEwOlJlcG9zaXRvcnkyMjA1NjI0MDQ=",
-        "github_name": "TemporaryCSharpCodeExamples",
-        "github_url": "https://github.com/docusign/TemporaryCSharpCodeExamples",
-        "display_name": "",
-        "description": "Do Not Use! This repo is temporary",
-        "language": "c#",
-        "tags": []
-      }
-    ]
+  {
+    "node_id": "MDEwOlJlcG9zaXRvcnkxNjA0MTc5NjM=",
+    "github_name": "soap4r",
+    "github_url": "https://github.com/docusign/soap4r",
+    "display_name": "",
+    "description": "SOAP4R is an implementation of SOAP 1.1 (W3C Note) for Ruby",
+    "language": "ruby",
+    "tags": []
+  },
+  {
+    "node_id": "MDEwOlJlcG9zaXRvcnkxODA2MjkzNDA=",
+    "github_name": "slate",
+    "github_url": "https://github.com/docusign/slate",
+    "display_name": "",
+    "description": "A completely customizable framework for building rich text editors.",
+    "language": "javascript",
+    "tags": []
+  },
+  {
+    "node_id": "MDEwOlJlcG9zaXRvcnkyMjA1NjI0MDQ=",
+    "github_name": "TemporaryCSharpCodeExamples",
+    "github_url": "https://github.com/docusign/TemporaryCSharpCodeExamples",
+    "display_name": "",
+    "description": "Do Not Use! This repo is temporary",
+    "language": "c#",
+    "tags": []
   }
+  ]
+}
 }
