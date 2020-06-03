@@ -26,7 +26,7 @@
         "github_name": "postman-esign-api-collection",
         "github_url": "https://github.com/docusign/postman-esign-api-collection",
         "display_name": "",
-        "description": "A easy guide to getting started with the DocuSign's eignature REST API using Postman.",
+        "description": "A easy guide to getting started with the DocuSign's eSignature REST API using Postman.",
         "language": "html",
         "tags": [ "opensource", "html" ]
       }
@@ -652,7 +652,7 @@
         "tags": [ "opensource", "html", "javascript", "node", "tool" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnkyNjM3MDQ4MTU",
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNjM3MDQ4MTU=",
         "github_name": "sample-app-mysure-python",
         "github_url": "https://github.com/docusign/sample-app-mysure-python",
         "display_name": "MySure Sample App",
