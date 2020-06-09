@@ -125,6 +125,15 @@
     ],
     "Code Examples": [
       {
+        "node_id": "MDEwOlJlcG9zaXRvcnkxNTkwMTQ3MDc=",
+        "github_name": "code-examples-csharp",
+        "github_url": "https://github.com/docusign/code-examples-csharp",
+        "display_name": "C# code examples",
+        "description": "C# code examples and launcher",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "esignature", "code-example" ]
+      },
+      {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTA5NTA4ODc=",
         "github_name": "qs-01-node-embed-signing-ceremony",
         "github_url": "https://github.com/docusign/qs-01-node-embed-signing-ceremony",
@@ -621,6 +630,15 @@
         "description": "Instructions and configuration files for creating CORS gateways for DocuSign Single Page Applications",
         "language": null,
         "tags": [ "opensource", "tool", "cors" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnk3MDY0MDQyMw==",
+        "github_name": "postman-esign-api-collection",
+        "github_url": "https://github.com/docusign/postman-esign-api-collection",
+        "display_name": "Postman Collection for the DocuSign eSignature REST API",
+        "description": "A easy guide to getting started with the DocuSign eSignature REST API using Postman",
+        "language": "json",
+        "tags": [ "opensource", "json", "postman" ]
       }
     ],
     "Sample Apps": [
@@ -631,7 +649,16 @@
         "display_name": "LoanCo Sample App",
         "description": "LoanCo is a sample app that illustrates various API workflows and features focused on the banking industry",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "html", "esignature", "sample-app"]
+        "tags": [ "opensource", "javascript", "html", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNjM3MDQ4MTU=",
+        "github_name": "sample-app-mysure-python",
+        "github_url": "https://github.com/docusign/sample-app-mysure-python",
+        "display_name": "MySure Sample App",
+        "description": "MySure is a sample app that illustrates various API workflows and features focused on the insurance industry",
+        "language": "python",
+        "tags": [ "opensource", "python", "javascript", "html", "esignature", "click", "sample-app" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyNTE0NDU1NTg=",
