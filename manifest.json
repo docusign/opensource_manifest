@@ -13,13 +13,13 @@
         "tags": [ "opensource", "csharp", "esignature", "code-example" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnkyNjM3MDQ4MTU=",
-        "github_name": "sample-app-mysure-python",
-        "github_url": "https://github.com/docusign/sample-app-mysure-python",
-        "display_name": "MySure Sample App",
-        "description": "MySure is a sample app that illustrates various API workflows and features focused on the insurance industry",
-        "language": "python",
-        "tags": [ "opensource", "python", "javascript", "html", "esignature", "click", "sample-app" ]
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNjk3MzQ2OTg=",
+        "github_name": "sample-app-myhr-csharp",
+        "github_url": "https://github.com/docusign/sample-app-myhr-csharp",
+        "display_name": "MyHR Sample App",
+        "description": "MyHR is a sample app that illustrates various API workflows and features focused on the HR field",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "javascript", "html", "esignature", "click", "sample-app" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk3MDY0MDQyMw==",
@@ -668,7 +668,17 @@
         "description": "MyUni is a sample app that illustrates various API workflows and features focused on the education industry",
         "language": "python",
         "tags": [ "opensource", "python", "javascript", "html", "esignature", "click", "sample-app" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNjk3MzQ2OTg=",
+        "github_name": "sample-app-myhr-csharp",
+        "github_url": "https://github.com/docusign/sample-app-myhr-csharp",
+        "display_name": "MyHR Sample App",
+        "description": "MyHR is a sample app that illustrates various API workflows and features focused on the HR field",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "javascript", "html", "esignature", "click", "sample-app" ]
       }
+
     ],
     "Others": [
       {
