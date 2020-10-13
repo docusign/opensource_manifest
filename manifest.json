@@ -131,16 +131,16 @@
         "display_name": "C# code examples",
         "description": "C# code examples and launcher",
         "language": "c#",
-        "tags": [ "opensource", "csharp", "esignature", "code-example" ]
+        "tags": [ "opensource", "csharp", "esignature", "code-example", "rooms" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnkxNTA5NTA4ODc=",
-        "github_name": "qs-01-node-embed-signing-ceremony",
-        "github_url": "https://github.com/docusign/qs-01-node-embed-signing-ceremony",
-        "display_name": "DocuSign Node.js Quickstart Example for Embedded Signing",
-        "description": "DocuSign Node.js Quickstart Example enables developers to easily and quickly start with DocuSign eSignature REST API Embedded Signing",
-        "language": "javascript",
-        "tags": [ "opensource", "javascript", "esignature", "code-example", "quick-start" ]
+        "node_id": "MDEwOlJlcG9zaXRvcnkyOTQ0NDk4NTc=",
+        "github_name": "code-examples-powershell",
+        "github_url": "https://github.com/docusign/code-examples-powershell",
+        "display_name": "PowerShell code examples",
+        "description": "PowerShell code examples and launcher",
+        "language": "shell",
+        "tags": [ "opensource", "PowerShell", "esignature", "code-example" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTAyNjA5ODI=",
@@ -149,7 +149,7 @@
         "display_name": "DocuSign Node.js Quickstart Example for Sending an Envelope",
         "description": "DocuSign Node.js Quickstart Example enables developers to easily and quickly start with DocuSign eSignature REST API to send an envelope",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTA5NDU1MTU=",
@@ -158,7 +158,7 @@
         "display_name": "DocuSign Node.js Quickstart Example for Listing Envelopes",
         "description": "DocuSign Node.js Quickstart Example enables developers to easily and quickly start with DocuSign eSignature REST API to list envelopes",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTIwNDI1MjM=",
@@ -167,7 +167,7 @@
         "display_name": "DocuSign Python Quickstart Examples",
         "description": "DocuSign Python Quickstart Examples for the DocuSign eSignature REST API",
         "language": "python",
-        "tags": [ "opensource", "python", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTI0MDQyNzk=",
@@ -176,7 +176,7 @@
         "display_name": "DocuSign C# Quickstart Examples",
         "description": "DocuSign C# Quickstart Examples for the DocuSign eSignature REST API",
         "language": "c#",
-        "tags": [ "opensource", "csharp", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTMwNTY5MzE=",
@@ -185,7 +185,7 @@
         "display_name": "DocuSign PHP Quickstart Examples",
         "description": "DocuSign PHP Quickstart Examples for the DocuSign eSignature REST API",
         "language": "php",
-        "tags": [ "opensource", "php", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTU1NTAzMzI=",
@@ -194,7 +194,7 @@
         "display_name": "DocuSign Curl Quickstart Examples",
         "description": "DocuSign Curl Quickstart Examples for the DocuSign eSignature REST API",
         "language": "shell",
-        "tags": [ "opensource", "shell", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjE2MDI5NDY=",
@@ -203,7 +203,7 @@
         "display_name": "DocuSign Java Quickstart Examples",
         "description": "DocuSign Java Quickstart Examples for the DocuSign eSignature REST API",
         "language": "java",
-        "tags": [ "opensource", "java", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjM1ODM1OTk=",
@@ -212,7 +212,7 @@
         "display_name": "DocuSign Ruby Quickstart Examples",
         "description": "DocuSign Ruby Quickstart Examples for the DocuSign eSignature REST API",
         "language": "ruby",
-        "tags": [ "opensource", "ruby", "esignature", "code-example", "quick-start" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMTI2NDEyNjE=",
@@ -311,7 +311,7 @@
         "display_name": "DSA Web Agent code example",
         "description": "DocuSign Signature Appliance (DSA) - code example for integrating with the Web Agent",
         "language": "javascript",
-        "tags": [ "opensource", "dsa", "javascript", "code-example" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk2Nzk4NzA1OA==",
@@ -414,12 +414,12 @@
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNDQxMTEzNDM=",
-        "github_name": "eg-03-node-auth-code-grant",
-        "github_url": "https://github.com/docusign/eg-03-node-auth-code-grant",
+        "github_name": "code-examples-node",
+        "github_url": "https://github.com/docusign/code-examples-node",
         "display_name": "Node.js code examples",
         "description": "Node.js code examples and launcher",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "esignature", "code-example" ]
+        "tags": [ "opensource", "javascript", "esignature", "code-example", "rooms" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNDQxNjM2MzY=",
@@ -450,8 +450,8 @@
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTU4NDMyOTE=",
-        "github_name": "eg-03-curl",
-        "github_url": "https://github.com/docusign/eg-03-curl",
+        "github_name": "code-examples-bash",
+        "github_url": "https://github.com/docusign/code-examples-bash",
         "display_name": "Curl (bash) code examples",
         "description": "API code examples and launcher using Curl from a bash script",
         "language": "shell",
@@ -603,6 +603,15 @@
         "description": "Test DocuSign Clickwrap agreements without configuring a web server",
         "language": "html",
         "tags": [ "opensource", "tool", "click", "html" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkyOTYwMDU2NzY=",
+        "github_name": "json-to-sdk",
+        "github_url": "https://github.com/docusign/json-to-sdk",
+        "display_name": "JSON to SDK tool",
+        "description": "Instant translation between a JSON request and DocuSign eSignature SDK calls in C#, PHP, Java, Node.js, Python, and Ruby. VB.NET too!",
+        "language": "javascript",
+        "tags": [ "opensource", "tool", "json", "html" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjgyMTMyOTI=",
