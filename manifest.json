@@ -608,7 +608,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkyOTYwMDU2NzY=",
         "github_name": "json-to-sdk",
         "github_url": "https://github.com/docusign/json-to-sdk",
-        "display_name": "",
+        "display_name": "JSON to SDK tool",
         "description": "Instant translation between a JSON request and DocuSign eSignature SDK calls in C#, PHP, Java, Node.js, Python, and Ruby. VB.NET too!",
         "language": "javascript",
         "tags": [ "opensource", "tool", "json", "html" ]
