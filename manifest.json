@@ -161,7 +161,7 @@
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NTEzNzg=",
         "github_name": "docusign-rooms-python-client",
-        "github_url": "https://github.com/docusign/docusign-room-python-client",
+        "github_url": "https://github.com/docusign/docusign-rooms-python-client",
         "display_name": "DocuSign Python Rooms SDK",
         "description": "The official DocuSign Python SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "python",
