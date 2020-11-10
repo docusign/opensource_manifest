@@ -123,7 +123,7 @@
         "tags": [ "sdk" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NjE0OTg==",
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NjE0OTg=",
         "github_name": "docusign-rooms-java-client",
         "github_url": "https://github.com/docusign/docusign-rooms-java-client",
         "display_name": "DocuSign Java Rooms SDK",
@@ -161,7 +161,7 @@
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NTEzNzg=",
         "github_name": "docusign-rooms-python-client",
-        "github_url": "https://github.com/docusign/docusign-room-spython-client",
+        "github_url": "https://github.com/docusign/docusign-room-python-client",
         "display_name": "DocuSign Python Rooms SDK",
         "description": "The official DocuSign Python SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "python",
