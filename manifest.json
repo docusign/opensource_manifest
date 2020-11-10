@@ -121,6 +121,60 @@
         "description": "[DEPRECATED] DocuSign iOS SDK. Use docusign-native-ios-sdk @ https://github.com/docusign/native-ios-sdk instead",
         "language": "objective-c",
         "tags": [ "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NjE0OTg==",
+        "github_name": "docusign-rooms-java-client",
+        "github_url": "https://github.com/docusign/docusign-rooms-java-client",
+        "display_name": "DocuSign Java Rooms SDK",
+        "description": "The official DocuSign Java SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "language": "java",
+        "tags": [ "opensource", "java", "rooms", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg3MjgyMDA=",
+        "github_name": "docusign-rooms-php-client",
+        "github_url": "https://github.com/docusign/docusign-rooms-php-client",
+        "display_name": "DocuSign PHP Rooms SDK",
+        "description": "The official DocuSign PHP SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "language": "php",
+        "tags": [ "opensource", "php", "rooms", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NTEzNDE=",
+        "github_name": "docusign-rooms-csharp-client",
+        "github_url": "https://github.com/docusign/docusign-rooms-csharp-client",
+        "display_name": "DocuSign C# Rooms SDK",
+        "description": "The official DocuSign C# SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "rooms", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg1MTE2NDQ=",
+        "github_name": "docusign-rooms-node-client",
+        "github_url": "https://github.com/docusign/docusign-rooms-node-client",
+        "display_name": "DocuSign Node Rooms SDK",
+        "description": "The official DocuSign Node.js SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "node", "rooms", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NTEzNzg=",
+        "github_name": "docusign-rooms-python-client",
+        "github_url": "https://github.com/docusign/docusign-room-spython-client",
+        "display_name": "DocuSign Python Rooms SDK",
+        "description": "The official DocuSign Python SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "language": "python",
+        "tags": [ "opensource", "python", "rooms", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NTgxMDY=",
+        "github_name": "docusign-rooms-ruby-client",
+        "github_url": "https://github.com/docusign/docusign-rooms-ruby-client",
+        "display_name": "DocuSign Ruby Rooms SDK",
+        "description": "The official DocuSign Ruby SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "language": "ruby",
+        "tags": [ "opensource", "ruby", "rooms", "client-library", "sdk" ]
       }
     ],
     "Code Examples": [
