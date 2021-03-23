@@ -10,7 +10,7 @@
         "display_name": "C# code examples",
         "description": "C# code examples and launcher",
         "language": "c#",
-        "tags": [ "opensource", "csharp", "esignature", "code-example" ]
+        "tags": [ "opensource", "csharp", "esignature", "code-example", "click", "rooms" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyNjk3MzQ2OTg=",
@@ -175,6 +175,60 @@
         "description": "The official DocuSign Ruby SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "ruby",
         "tags": [ "opensource", "ruby", "rooms", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMjUxNDc4MzY=",
+        "github_name": "docusign-click-java-client",
+        "github_url": "https://github.com/docusign/docusign-click-java-client",
+        "display_name": "DocuSign Java Click SDK",
+        "description": "The official DocuSign Java SDK (Client Library) used to interact with the DocuSign Click API.",
+        "language": "java",
+        "tags": [ "opensource", "java", "click", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MjAwNjY==",
+        "github_name": "docusign-click-php-client",
+        "github_url": "https://github.com/docusign/docusign-click-php-client",
+        "display_name": "DocuSign PHP Click SDK",
+        "description": "The official DocuSign PHP SDK (Client Library) used to interact with the DocuSign Click API.",
+        "language": "php",
+        "tags": [ "opensource", "php", "click", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MTk4Mzk=",
+        "github_name": "docusign-click-csharp-client",
+        "github_url": "https://github.com/docusign/docusign-click-csharp-client",
+        "display_name": "DocuSign C# Click SDK",
+        "description": "The official DocuSign C# SDK (Client Library) used to interact with the DocuSign Click API.",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "click", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MjExMDY=",
+        "github_name": "docusign-click-node-client",
+        "github_url": "https://github.com/docusign/docusign-click-node-client",
+        "display_name": "DocuSign Node Click SDK",
+        "description": "The official DocuSign Node.js SDK (Client Library) used to interact with the DocuSign Click API.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "node", "click", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMjI2NTY5ODE=",
+        "github_name": "docusign-click-python-client",
+        "github_url": "https://github.com/docusign/docusign-click-python-client",
+        "display_name": "DocuSign Python Click SDK",
+        "description": "The official DocuSign Python SDK (Client Library) used to interact with the DocuSign Click API.",
+        "language": "python",
+        "tags": [ "opensource", "python", "click", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MTk3MDI=",
+        "github_name": "docusign-click-ruby-client",
+        "github_url": "https://github.com/docusign/docusign-click-ruby-client",
+        "display_name": "DocuSign Ruby Click SDK",
+        "description": "The official DocuSign Ruby SDK (Client Library) used to interact with the DocuSign Click API.",
+        "language": "ruby",
+        "tags": [ "opensource", "ruby", "click", "client-library", "sdk" ]
       }
     ],
     "Code Examples": [
@@ -185,7 +239,7 @@
         "display_name": "C# code examples",
         "description": "C# code examples and launcher",
         "language": "c#",
-        "tags": [ "opensource", "csharp", "esignature", "code-example", "rooms" ]
+        "tags": [ "opensource", "csharp", "esignature", "code-example",  "click", "rooms" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyOTQ0NDk4NTc=",
@@ -194,7 +248,7 @@
         "display_name": "PowerShell code examples",
         "description": "PowerShell code examples and launcher",
         "language": "shell",
-        "tags": [ "opensource", "PowerShell", "esignature", "code-example" ]
+        "tags": [ "opensource", "PowerShell", "esignature", "code-example", "click", "rooms" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTAyNjA5ODI=",
@@ -320,7 +374,7 @@
         "display_name": "PHP Connect code example",
         "description": "PHP code example that demonstrates the use of DocuSign Connect (webhook) functionality",
         "language": "php",
-        "tags": [ "opensource", "connect", "code-example", "php", "esignature" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1MzI1NjA1Ng==",
@@ -329,7 +383,7 @@
         "display_name": "Python Connect code example",
         "description": "Python code example that demonstrates the use of DocuSign Connect (webhook) functionality",
         "language": "python",
-        "tags": [ "opensource", "connect", "code-example", "python", "esignature" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1MzMxMzkxOA==",
@@ -338,7 +392,7 @@
         "display_name": "Python code example for sending multiple documents",
         "description": "Python code example for the DocuSign eSignature REST API Recipe demonstrating sending a signature request with multiple documents",
         "language": "python",
-        "tags": [ "opensource", "code-example", "python", "esignature" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1NDQyNzY1Nw==",
@@ -347,7 +401,7 @@
         "display_name": "Java Connect Code Example",
         "description": "Java code example that demonstrates the use of DocuSign Connect (webhook) functionality",
         "language": "java",
-        "tags": [ "opensource", "connect", "code-example", "java", "esignature" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1NDQ1MjYxNQ==",
@@ -356,7 +410,7 @@
         "display_name": "C# Connect Code Example",
         "description": "C# code example that demonstrates the use of DocuSign Connect (webhook) functionality",
         "language": "c#",
-        "tags": [ "opensource", "csharp", "connect", "code-example", "esignature" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk1NDQ3NjgzNg==",
@@ -626,7 +680,7 @@
         "display_name": "eSignature Recipes Python",
         "description": "This tool includes an API logger and software examples for multiple DocuSign eSignature REST API recipes",
         "language": "python",
-        "tags": [ "opensource", "python", "code-example", "esignature" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyMDIyMTQzNzk=",
@@ -740,6 +794,24 @@
         "description": "MyHR is a sample app that illustrates various API workflows and features focused on the HR field",
         "language": "c#",
         "tags": [ "opensource", "csharp", "javascript", "html", "esignature", "click", "sample-app" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNzg2NjYwNjQ=",
+        "github_name": "sample-app-myclickwrap-csharp",
+        "github_url": "https://github.com/docusign/sample-app-myclickwrap-csharp",
+        "display_name": "MyClickwrap Sample App",
+        "description": "MyClickwrap is a sample app that illustrates various API workflows using the Click API",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "javascript", "html", "click", "sample-app" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzMTk3NDczMDI=",
+        "github_name": "sample-app-myrealestate-nodejs",
+        "github_url": "https://github.com/docusign/sample-app-myrealestate-nodejs",
+        "display_name": "MyRealestate Sample App",
+        "description": "MyRealestate is a sample app that illustrates various API workflows using the Rooms API",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "html", "rooms", "sample-app" ]
       }
 
     ],
