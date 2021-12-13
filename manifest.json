@@ -35,7 +35,7 @@
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMjkzOTAzOQ==",
         "github_name": "docusign-esign-java-client",
-        "github_url": "https://github.com/docusign/docusign-java-client",
+        "github_url": "https://github.com/docusign/docusign-esign-java-client",
         "display_name": "DocuSign eSignature Java SDK",
         "description": "The official DocuSign eSignature Java SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "java",
@@ -89,7 +89,7 @@
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDM0MzEyMDk=",
         "github_name": "docusign-ruby-client",
-        "github_url": "https://github.com/docusign/docusign-ruby-client",
+        "github_url": "https://github.com/docusign/docusign-esign-ruby-client",
         "display_name": "DocuSign eSignature Ruby SDK",
         "description": "The official DocuSign eSignature Ruby SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "ruby",
@@ -258,7 +258,7 @@
         "tags": [ "opensource", "csharp", "monitor", "client-library", "sdk" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxODE5MTE",
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxODE5MTE=",
         "github_name": "docusign-monitor-node-client",
         "github_url": "https://github.com/docusign/docusign-monitor-node-client",
         "display_name": "DocuSign Node Monitor SDK",
@@ -882,7 +882,7 @@
         "github_url": "https://github.com/docusign/sample-app-tgk-financial-ios",
         "display_name": "TGK Financial iOS Sample App",
         "description": "TGK Financial sample application showcases how a fictitious financial institution can use the DocuSign iOS SDK to build a mobile application for their customers.",
-        "language": "java",
+        "language": "objc",
         "tags": [ "opensource", "objc", "ios", "esignature", "sample-app" ]
       },
       {
@@ -895,7 +895,7 @@
         "tags": [ "opensource", "apex", "salesforce", "esignature", "sample-app" ]
       },
       {
-        "node_id": "R_kgDOGQwYSg",
+        "node_id": "R_kgDOGhvnAg",
         "github_name": "sample-app-myhealthcare-python",
         "github_url": "https://github.com/docusign/sample-app-myhealthcare-python",
         "display_name": "MyHealthcare Sample App",
