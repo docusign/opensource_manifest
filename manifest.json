@@ -1,5 +1,5 @@
 {
-  "languages": [ "java", "php", "objective-c", "c#", "javascript", "python", "apex", "html", "ruby", "shell", "json" ],
+  "languages": [ "java", "php", "objective-c", "c#", "javascript", "python", "apex", "html", "ruby", "shell", "json", "kotlin" ],
   "categories": [ "Featured", "SDKs", "Code Examples", "Tools", "Sample Apps", "Others" ],
   "repositories": {
     "Featured": [
@@ -34,37 +34,37 @@
     "SDKs": [
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMjkzOTAzOQ==",
-        "github_name": "docusign-java-client",
+        "github_name": "docusign-esign-java-client",
         "github_url": "https://github.com/docusign/docusign-java-client",
-        "display_name": "DocuSign Java SDK",
-        "description": "The official DocuSign Java SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
+        "display_name": "DocuSign eSignature Java SDK",
+        "description": "The official DocuSign eSignature Java SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "java",
         "tags": [ "opensource", "java", "esignature", "client-library", "sdk" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMzQwMzI0OA==",
-        "github_name": "docusign-php-client",
+        "github_name": "docusign-esign-php-client",
         "github_url": "https://github.com/docusign/docusign-php-client",
-        "display_name": "DocuSign PHP SDK",
-        "description": "The official DocuSign PHP SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
+        "display_name": "DocuSign eSignature PHP SDK",
+        "description": "The official DocuSign eSignature PHP SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "php",
         "tags": [ "opensource", "php", "esignature", "client-library", "sdk" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyNzczNDMyMg==",
-        "github_name": "docusign-csharp-client",
-        "github_url": "https://github.com/docusign/docusign-csharp-client",
-        "display_name": "DocuSign C# SDK",
-        "description": "The official DocuSign C# SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
+        "github_name": "docusign-esign-csharp-client",
+        "github_url": "https://github.com/docusign/docusign-esign-csharp-client",
+        "display_name": "DocuSign eSignature C# SDK",
+        "description": "The official DocuSign eSignature C# SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "c#",
         "tags": [ "opensource", "csharp", "esignature", "client-library", "sdk" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkzNzU2MDAwOA==",
-        "github_name": "docusign-node-client",
-        "github_url": "https://github.com/docusign/docusign-node-client",
-        "display_name": "DocuSign Node SDK",
-        "description": "The official DocuSign Node.js SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
+        "github_name": "docusign-esign-node-client",
+        "github_url": "https://github.com/docusign/docusign-esign-node-client",
+        "display_name": "DocuSign eSignature Node SDK",
+        "description": "The official DocuSign eSignature Node.js SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "node", "esignature", "client-library", "sdk" ]
       },
@@ -79,10 +79,10 @@
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnk5OTc1MDA4OA==",
-        "github_name": "docusign-python-client",
-        "github_url": "https://github.com/docusign/docusign-python-client",
-        "display_name": "DocuSign Python Client",
-        "description": "The official DocuSign Python SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client. https://www.docusign.com/devcenter",
+        "github_name": "docusign-esign-python-client",
+        "github_url": "https://github.com/docusign/docusign-esign-python-client",
+        "display_name": "DocuSign eSignature Python Client",
+        "description": "The official DocuSign eSignature Python SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client. https://www.docusign.com/devcenter",
         "language": "python",
         "tags": [ "opensource", "python", "esignature", "client-library", "sdk" ]
       },
@@ -90,8 +90,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDM0MzEyMDk=",
         "github_name": "docusign-ruby-client",
         "github_url": "https://github.com/docusign/docusign-ruby-client",
-        "display_name": "DocuSign Ruby SDK",
-        "description": "The official DocuSign Ruby SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
+        "display_name": "DocuSign eSignature Ruby SDK",
+        "description": "The official DocuSign eSignature Ruby SDK (Client Library) used to interact with the DocuSign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "ruby",
         "tags": [ "opensource", "ruby", "esignature", "client-library", "sdk" ]
       },
@@ -99,7 +99,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxMzIxOTY4",
         "github_name": "docusign-soap-sdk",
         "github_url": "https://github.com/docusign/docusign-soap-sdk",
-        "display_name": "DocuSign SOAP SDK",
+        "display_name": "DocuSign eSignature SOAP SDK",
         "description": "Wraps the DocuSign eSignature SOAP API in five different languages: Java, C#, PHP, Ruby, and Apex (for SalesForce)",
         "language": "soap",
         "tags": [ "opensource", "sdk", "java", "c#", "apex", "php", "ruby", "esignature", "soap" ]
@@ -114,13 +114,13 @@
         "tags": [ "opensource", "sdk", "ios", "objc", "esignature", "client-library" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnkyMDI3NTY3MQ==",
-        "github_name": "docusign-ios-sdk",
-        "github_url": "https://github.com/docusign/docusign-ios-sdk",
-        "display_name": "[DEPRECATED] DocuSign iOS SDK",
-        "description": "[DEPRECATED] DocuSign iOS SDK. Use docusign-native-ios-sdk @ https://github.com/docusign/native-ios-sdk instead",
-        "language": "objective-c",
-        "tags": [ "sdk" ]
+        "node_id": "MDEwOlJlcG9zaXRvcnkyNzE4NTg4NTU=",
+        "github_name": "mobile-android-sdk",
+        "github_url": "https://github.com/docusign/mobile-android-sdk",
+        "display_name": "DocuSign Android SDK",
+        "description": "The official DocuSign Android SDK (Client Library) that enables developers to integrate their products with the DocuSign eSignature REST API on Android",
+        "language": "kotlin",
+        "tags": [ "opensource", "sdk", "android", "kotlin", "esignature", "client-library" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkzMDg0NjE0OTg=",
@@ -136,7 +136,7 @@
         "github_name": "docusign-rooms-php-client",
         "github_url": "https://github.com/docusign/docusign-rooms-php-client",
         "display_name": "DocuSign PHP Rooms SDK",
-        "description": "The official DocuSign PHP SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "description": "The official DocuSign Rooms PHP SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "php",
         "tags": [ "opensource", "php", "rooms", "client-library", "sdk" ]
       },
@@ -145,7 +145,7 @@
         "github_name": "docusign-rooms-csharp-client",
         "github_url": "https://github.com/docusign/docusign-rooms-csharp-client",
         "display_name": "DocuSign C# Rooms SDK",
-        "description": "The official DocuSign C# SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "description": "The official DocuSign Rooms C# SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "c#",
         "tags": [ "opensource", "csharp", "rooms", "client-library", "sdk" ]
       },
@@ -154,7 +154,7 @@
         "github_name": "docusign-rooms-node-client",
         "github_url": "https://github.com/docusign/docusign-rooms-node-client",
         "display_name": "DocuSign Node Rooms SDK",
-        "description": "The official DocuSign Node.js SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "description": "The official DocuSign Rooms Node.js SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "node", "rooms", "client-library", "sdk" ]
       },
@@ -163,7 +163,7 @@
         "github_name": "docusign-rooms-python-client",
         "github_url": "https://github.com/docusign/docusign-rooms-python-client",
         "display_name": "DocuSign Python Rooms SDK",
-        "description": "The official DocuSign Python SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "description": "The official DocuSign Rooms Python SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "python",
         "tags": [ "opensource", "python", "rooms", "client-library", "sdk" ]
       },
@@ -172,7 +172,7 @@
         "github_name": "docusign-rooms-ruby-client",
         "github_url": "https://github.com/docusign/docusign-rooms-ruby-client",
         "display_name": "DocuSign Ruby Rooms SDK",
-        "description": "The official DocuSign Ruby SDK (Client Library) used to interact with the DocuSign Rooms API.",
+        "description": "The official DocuSign Rooms Ruby SDK (Client Library) used to interact with the DocuSign Rooms API.",
         "language": "ruby",
         "tags": [ "opensource", "ruby", "rooms", "client-library", "sdk" ]
       },
@@ -181,7 +181,7 @@
         "github_name": "docusign-click-java-client",
         "github_url": "https://github.com/docusign/docusign-click-java-client",
         "display_name": "DocuSign Java Click SDK",
-        "description": "The official DocuSign Java SDK (Client Library) used to interact with the DocuSign Click API.",
+        "description": "The official DocuSign Click Java SDK (Client Library) used to interact with the DocuSign Click API.",
         "language": "java",
         "tags": [ "opensource", "java", "click", "client-library", "sdk" ]
       },
@@ -190,7 +190,7 @@
         "github_name": "docusign-click-php-client",
         "github_url": "https://github.com/docusign/docusign-click-php-client",
         "display_name": "DocuSign PHP Click SDK",
-        "description": "The official DocuSign PHP SDK (Client Library) used to interact with the DocuSign Click API.",
+        "description": "The official DocuSign Click PHP SDK (Client Library) used to interact with the DocuSign Click API.",
         "language": "php",
         "tags": [ "opensource", "php", "click", "client-library", "sdk" ]
       },
@@ -199,7 +199,7 @@
         "github_name": "docusign-click-csharp-client",
         "github_url": "https://github.com/docusign/docusign-click-csharp-client",
         "display_name": "DocuSign C# Click SDK",
-        "description": "The official DocuSign C# SDK (Client Library) used to interact with the DocuSign Click API.",
+        "description": "The official DocuSign Click C# SDK (Client Library) used to interact with the DocuSign Click API.",
         "language": "c#",
         "tags": [ "opensource", "csharp", "click", "client-library", "sdk" ]
       },
@@ -208,7 +208,7 @@
         "github_name": "docusign-click-node-client",
         "github_url": "https://github.com/docusign/docusign-click-node-client",
         "display_name": "DocuSign Node Click SDK",
-        "description": "The official DocuSign Node.js SDK (Client Library) used to interact with the DocuSign Click API.",
+        "description": "The official DocuSign Click Node.js SDK (Client Library) used to interact with the DocuSign Click API.",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "node", "click", "client-library", "sdk" ]
       },
@@ -217,7 +217,7 @@
         "github_name": "docusign-click-python-client",
         "github_url": "https://github.com/docusign/docusign-click-python-client",
         "display_name": "DocuSign Python Click SDK",
-        "description": "The official DocuSign Python SDK (Client Library) used to interact with the DocuSign Click API.",
+        "description": "The official DocuSign Click Python SDK (Client Library) used to interact with the DocuSign Click API.",
         "language": "python",
         "tags": [ "opensource", "python", "click", "client-library", "sdk" ]
       },
@@ -226,9 +226,63 @@
         "github_name": "docusign-click-ruby-client",
         "github_url": "https://github.com/docusign/docusign-click-ruby-client",
         "display_name": "DocuSign Ruby Click SDK",
-        "description": "The official DocuSign Ruby SDK (Client Library) used to interact with the DocuSign Click API.",
+        "description": "The official DocuSign Click Ruby SDK (Client Library) used to interact with the DocuSign Click API.",
         "language": "ruby",
         "tags": [ "opensource", "ruby", "click", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNjc0NjM0MTM=",
+        "github_name": "docusign-monitor-java-client",
+        "github_url": "https://github.com/docusign/docusign-monitor-java-client",
+        "display_name": "DocuSign Java Monitor SDK",
+        "description": "The official DocuSign Monitor Java SDK (Client Library) used to interact with the DocuSign Monitor API.",
+        "language": "java",
+        "tags": [ "opensource", "java", "monitor", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxNzM3Nzk=",
+        "github_name": "docusign-monitor-php-client",
+        "github_url": "https://github.com/docusign/docusign-monitor-php-client",
+        "display_name": "DocuSign PHP Monitor SDK",
+        "description": "The official DocuSign Monitor PHP SDK (Client Library) used to interact with the DocuSign Monitor API.",
+        "language": "php",
+        "tags": [ "opensource", "php", "monitor", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNjg2Njk5OTk=",
+        "github_name": "docusign-monitor-csharp-client",
+        "github_url": "https://github.com/docusign/docusign-monitor-csharp-client",
+        "display_name": "DocuSign C# Monitor SDK",
+        "description": "The official DocuSign Monitor C# SDK (Client Library) used to interact with the DocuSign Monitor API.",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "monitor", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxODE5MTE",
+        "github_name": "docusign-monitor-node-client",
+        "github_url": "https://github.com/docusign/docusign-monitor-node-client",
+        "display_name": "DocuSign Node Monitor SDK",
+        "description": "The official DocuSign Monitor Node.js SDK (Client Library) used to interact with the DocuSign Monitor API.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "node", "monitor", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNjg2NjI5OTI=",
+        "github_name": "docusign-monitor-python-client",
+        "github_url": "https://github.com/docusign/docusign-monitor-python-client",
+        "display_name": "DocuSign Python Monitor SDK",
+        "description": "The official DocuSign Monitor Python SDK (Client Library) used to interact with the DocuSign Monitor API.",
+        "language": "python",
+        "tags": [ "opensource", "python", "monitor", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxOTk3NjI=",
+        "github_name": "docusign-monitor-ruby-client",
+        "github_url": "https://github.com/docusign/docusign-monitor-ruby-client",
+        "display_name": "DocuSign Ruby Monitor SDK",
+        "description": "The official DocuSign Monitor Ruby SDK (Client Library) used to interact with the DocuSign Monitor API.",
+        "language": "ruby",
+        "tags": [ "opensource", "ruby", "monitor", "client-library", "sdk" ]
       }
     ],
     "Code Examples": [
@@ -805,6 +859,51 @@
         "tags": [ "opensource", "csharp", "javascript", "html", "click", "sample-app" ]
       },
       {
+        "node_id": "R_kgDOGQy6Ow",
+        "github_name": "sample-app-tgk-financial-android-kotlin",
+        "github_url": "https://github.com/docusign/sample-app-tgk-financial-android-kotlin",
+        "display_name": "TGK Financial Android Sample App (Kotlin)",
+        "description": "TGK Financial sample application showcases how a fictitious financial institution can use the DocuSign Android SDK to build a mobile application for their customers.",
+        "language": "kotlin",
+        "tags": [ "opensource", "kotlin", "android", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDOGQwY4g",
+        "github_name": "sample-app-tgk-financial-android-java",
+        "github_url": "https://github.com/docusign/sample-app-tgk-financial-android-java",
+        "display_name": "TGK Financial Android Sample App (Java)",
+        "description": "TGK Financial sample application showcases how a fictitious financial institution can use the DocuSign Android SDK to build a mobile application for their customers.",
+        "language": "java",
+        "tags": [ "opensource", "java", "android", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDOGQwYSg",
+        "github_name": "sample-app-tgk-financial-ios",
+        "github_url": "https://github.com/docusign/sample-app-tgk-financial-ios",
+        "display_name": "TGK Financial iOS Sample App",
+        "description": "TGK Financial sample application showcases how a fictitious financial institution can use the DocuSign iOS SDK to build a mobile application for their customers.",
+        "language": "java",
+        "tags": [ "opensource", "objc", "ios", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDOGemeMQ",
+        "github_name": "sample-app-myfinance-apex",
+        "github_url": "https://github.com/docusign/sample-app-myfinance-apex",
+        "display_name": "MyFinance Sample App",
+        "description": "MyFinance is a DocuSign sample application showcasing how you can integrate DocuSign and Salesforce with the Apex Toolkit.",
+        "language": "apex",
+        "tags": [ "opensource", "apex", "salesforce", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDOGQwYSg",
+        "github_name": "sample-app-myhealthcare-python",
+        "github_url": "https://github.com/docusign/sample-app-myhealthcare-python",
+        "display_name": "MyHealthcare Sample App",
+        "description": "MyHealthcare is a sample app that illustrates various API workflows and features focused on the healthcare industry",
+        "language": "apex",
+        "tags": [ "opensource", "python", "javascript", "html", "esignature", "click", "sample-app" ]
+      },
+      {
         "node_id": "MDEwOlJlcG9zaXRvcnkzMTk3NDczMDI=",
         "github_name": "sample-app-myrealestate-nodejs",
         "github_url": "https://github.com/docusign/sample-app-myrealestate-nodejs",
@@ -813,7 +912,6 @@
         "language": "javascript",
         "tags": [ "opensource", "javascript", "html", "rooms", "sample-app" ]
       }
-
     ],
     "Others": [
       {
@@ -829,10 +927,10 @@
         "node_id": "MDEwOlJlcG9zaXRvcnk5MDA2NjU1NQ==",
         "github_name": "docusign-android-starter-kit",
         "github_url": "https://github.com/docusign/docusign-android-starter-kit",
-        "display_name": "DocuSign Android Starter Kit",
+        "display_name": "DEPRECATED DocuSign Android Starter Kit",
         "description": "This DocuSign Android Client can be used to quickly integrate the DocuSign eSignature REST API into your Android apps",
         "language": "java",
-        "tags": [ "opensource", "java", "eSignature", "code-example" ]
+        "tags": []
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkyNTk3Nzk0Njg=",
