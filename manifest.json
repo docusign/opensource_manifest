@@ -900,7 +900,7 @@
         "github_url": "https://github.com/docusign/sample-app-myhealthcare-python",
         "display_name": "MyHealthcare Sample App",
         "description": "MyHealthcare is a sample app that illustrates various API workflows and features focused on the healthcare industry.",
-        "language": "apex",
+        "language": "python",
         "tags": [ "opensource", "python", "javascript", "html", "esignature", "click", "sample-app" ]
       },
       {
@@ -909,7 +909,7 @@
         "github_url": "https://github.com/docusign/sample-app-mygovernment-nodejs",
         "display_name": "MyGoverment Sample App",
         "description": "MyGoverment is a sample app that illustrates various API workflows and features focused on the public sector.",
-        "language": "apex",
+        "language": "javascript",
         "tags": [ "opensource", "javascript", "html", "esignature", "sample-app" ]
       },
       {
@@ -918,7 +918,7 @@
         "github_url": "https://github.com/docusign/sample-app-myapicalls-csharp",
         "display_name": "MyAPICalls Sample App",
         "description": "MyAPICalls lets you experiment with common API calls in an interactive environment, walk through the call parameters, and examine the response.",
-        "language": "apex",
+        "language": "c#",
         "tags": [ "opensource", "csharp", "javascript", "html", "sample-app" ]
       },
       {
