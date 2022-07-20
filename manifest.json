@@ -899,9 +899,27 @@
         "github_name": "sample-app-myhealthcare-python",
         "github_url": "https://github.com/docusign/sample-app-myhealthcare-python",
         "display_name": "MyHealthcare Sample App",
-        "description": "MyHealthcare is a sample app that illustrates various API workflows and features focused on the healthcare industry",
+        "description": "MyHealthcare is a sample app that illustrates various API workflows and features focused on the healthcare industry.",
         "language": "apex",
         "tags": [ "opensource", "python", "javascript", "html", "esignature", "click", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDOHNZ05w",
+        "github_name": "sample-app-mygovernment-nodejs",
+        "github_url": "https://github.com/docusign/sample-app-mygovernment-nodejs",
+        "display_name": "MyGoverment Sample App",
+        "description": "MyGoverment is a sample app that illustrates various API workflows and features focused on the public sector.",
+        "language": "apex",
+        "tags": [ "opensource", "javascript", "html", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDOHZXkdQ",
+        "github_name": "sample-app-myapicalls-csharp",
+        "github_url": "https://github.com/docusign/sample-app-myapicalls-csharp",
+        "display_name": "MyAPICalls Sample App",
+        "description": "MyAPICalls lets you experiment with common API calls in an interactive environment, walk through the call parameters, and examine the response.",
+        "language": "apex",
+        "tags": [ "opensource", "csharp", "javascript", "html", "sample-app" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkzMTk3NDczMDI=",
