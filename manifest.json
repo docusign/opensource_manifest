@@ -904,13 +904,40 @@
         "tags": [ "opensource", "python", "javascript", "html", "esignature", "click", "sample-app" ]
       },
       {
+        "node_id": "R_kgDOHg9Ucw",
+        "github_name": "sample-app-mytelecom-nodejs",
+        "github_url": "https://github.com/docusign/sample-app-mytelecom-nodejs",
+        "display_name": "MyTelecom Sample App",
+        "description": "MyTelecom is a sample app that illustrates various API workflows and features focused on the telecom industry.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "html", "esignature", "sample-app" ]
+      },
+      {
         "node_id": "R_kgDOHNZ05w",
         "github_name": "sample-app-mygovernment-nodejs",
         "github_url": "https://github.com/docusign/sample-app-mygovernment-nodejs",
-        "display_name": "MyGoverment Sample App",
-        "description": "MyGoverment is a sample app that illustrates various API workflows and features focused on the public sector.",
+        "display_name": "MyGovernment Sample App",
+        "description": "MyGovernment is a sample app that illustrates various API workflows and features focused on the public sector.",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "html", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "MDEwOlJlcG9zaXRvcnkzNzczMDcxNDQ=",
+        "github_name": "sample-app-mymedicalrecords-java",
+        "github_url": "https://github.com/docusign/sample-app-mymedicalrecords-java",
+        "display_name": "MyMedicalRecords Sample App",
+        "description": "MyMedicalRecords is a sample app that illustrates various API workflows and features focused electronic medical records.",
+        "language": "java",
+        "tags": [ "opensource", "java", "html", "esignature", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDOHvPHdw",
+        "github_name": "sample-app-myconnectwebhook-ruby",
+        "github_url": "https://github.com/docusign/sample-app-myconnectwebhook-ruby",
+        "display_name": "MyConnectWebhook Sample App",
+        "description": "MyConnectWebhook is a sample app that illustrates how to use DocuSign Connect webhook notifications.",
+        "language": "ruby",
+        "tags": [ "opensource", "ruby", "click", "esignature", "sample-app" ]
       },
       {
         "node_id": "R_kgDOHZXkdQ",
