@@ -922,6 +922,15 @@
         "tags": [ "opensource", "javascript", "html", "esignature", "sample-app" ]
       },
       {
+        "node_id": "R_kgDOJYjbvQ",
+        "github_name": "sample-app-myit-php",
+        "github_url": "https://github.com/docusign/sample-app-myit-php",
+        "display_name": "MyIT Sample App",
+        "description": "MyIT is a sample app that showcases various API workflows and features geared towards the information technology industry",
+        "language": "php",
+        "tags": [ "opensource", "php", "javascript", "html", "esignature", "admin", "monitor", "sample-app" ]
+      },
+      {
         "node_id": "MDEwOlJlcG9zaXRvcnkzNzczMDcxNDQ=",
         "github_name": "sample-app-mymedicalrecords-java",
         "github_url": "https://github.com/docusign/sample-app-mymedicalrecords-java",
