@@ -817,7 +817,7 @@
         "node_id": "R_kgDOK51KDA",
         "github_name": "sample-app-mycors-javascript",
         "github_url": "https://github.com/docusign/sample-app-mycors-javascript",
-        "display_name": "MyCORS Sample Apps",
+        "display_name": "MyCORS Sample App",
         "description": "MyCORS is a DocuSign sample application that shows how the DocuSign CORS feature can be used to construct a Single Page App (SPA)",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "html", "esignature", "sample-app", "cors" ]
