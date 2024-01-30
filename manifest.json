@@ -758,15 +758,6 @@
     ],
     "Tools": [
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnkxODA1MzA3MTU=",
-        "github_name": "clickwrap-test-page",
-        "github_url": "https://github.com/docusign/clickwrap-test-page",
-        "display_name": "",
-        "description": "Test DocuSign Clickwrap agreements without configuring a web server",
-        "language": "html",
-        "tags": [ "opensource", "tool", "click", "html" ]
-      },
-      {
         "node_id": "MDEwOlJlcG9zaXRvcnkyOTYwMDU2NzY=",
         "github_name": "json-to-sdk",
         "github_url": "https://github.com/docusign/json-to-sdk",
@@ -857,15 +848,6 @@
         "description": "MyHR is a sample app that illustrates various API workflows and features focused on the HR field",
         "language": "c#",
         "tags": [ "opensource", "csharp", "javascript", "html", "esignature", "click", "sample-app" ]
-      },
-      {
-        "node_id": "MDEwOlJlcG9zaXRvcnkyNzg2NjYwNjQ=",
-        "github_name": "sample-app-myclickwrap-csharp",
-        "github_url": "https://github.com/docusign/sample-app-myclickwrap-csharp",
-        "display_name": "MyClickwrap Sample App",
-        "description": "MyClickwrap is a sample app that illustrates various API workflows using the Click API",
-        "language": "c#",
-        "tags": [ "opensource", "csharp", "javascript", "html", "click", "sample-app" ]
       },
       {
         "node_id": "R_kgDOGQy6Ow",
