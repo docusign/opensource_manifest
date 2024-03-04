@@ -805,6 +805,15 @@
     ],
     "Sample Apps": [
       {
+        "node_id": "R_kgDOLYUZsw",
+        "github_name": "sample-app-mywebforms-csharp",
+        "github_url": "https://github.com/docusign/sample-app-mywebforms-csharp",
+        "display_name": "MyWebForms Sample App",
+        "description": "MyWebForms is a DocuSign sample application that showscases how Web Forms and the Web Forms API can be used in the financial industry",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "html", "web-forms", "sample-app" ]
+      },
+      {
         "node_id": "R_kgDOK51KDA",
         "github_name": "sample-app-mycors-javascript",
         "github_url": "https://github.com/docusign/sample-app-mycors-javascript",
