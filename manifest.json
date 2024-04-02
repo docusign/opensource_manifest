@@ -814,6 +814,15 @@
         "tags": [ "opensource", "csharp", "html", "web-forms", "sample-app" ]
       },
       {
+        "node_id": "R_kgDOLnTcIw",
+        "github_name": "docusign/sample-app-mydocgen-php",
+        "github_url": "https://github.com/docusign/docusign/sample-app-mydocgen-php",
+        "display_name": "MyDocGen Sample App",
+        "description": "MyDocGen is a DocuSign sample application that showscases how Document Generation technology can be used in the financial, HR, and legal industries",
+        "language": "PHP",
+        "tags": [ "opensource", "php", "html", "esignature", "sample-app" ]
+      },
+      {
         "node_id": "R_kgDOK51KDA",
         "github_name": "sample-app-mycors-javascript",
         "github_url": "https://github.com/docusign/sample-app-mycors-javascript",
