@@ -816,7 +816,7 @@
       {
         "node_id": "R_kgDOLnTcIw",
         "github_name": "docusign/sample-app-mydocgen-php",
-        "github_url": "https://github.com/docusign/docusign/sample-app-mydocgen-php",
+        "github_url": "https://github.com/docusign/sample-app-mydocgen-php",
         "display_name": "MyDocGen Sample App",
         "description": "MyDocGen is a DocuSign sample application that showscases how Document Generation technology can be used in the financial, HR, and legal industries",
         "language": "php",
