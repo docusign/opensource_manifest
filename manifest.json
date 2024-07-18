@@ -72,7 +72,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnk0ODA3Mzc0MA==",
         "github_name": "docusign-objc-client",
         "github_url": "https://github.com/docusign/docusign-objc-client",
-        "display_name": "DocuSign Objective-C SDK",
+        "display_name": "Docusign Objective-C SDK",
         "description": "The Official Docusign Objective-C SDK (Client Library) used to interact with the Docusign eSignature REST API. Send, sign, and approve documents using this client",
         "language": "objective-c",
         "tags": [ "opensource", "objc", "esignature", "client-library", "sdk" ]
@@ -81,14 +81,14 @@
         "node_id": "MDEwOlJlcG9zaXRvcnk5OTc1MDA4OA==",
         "github_name": "docusign-esign-python-client",
         "github_url": "https://github.com/docusign/docusign-esign-python-client",
-        "display_name": "DocuSign eSignature Python Client",
+        "display_name": "Docusign eSignature Python Client",
         "description": "The official Docusign eSignature Python SDK (Client Library) used to interact with the Docusign eSignature REST API. Send, sign, and approve documents using this client. https://www.docusign.com/devcenter",
         "language": "python",
         "tags": [ "opensource", "python", "esignature", "client-library", "sdk" ]
       },
       {
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDM0MzEyMDk=",
-        "github_name": "docusign-ruby-client",
+        "github_name": "docusign-esign-ruby-client",
         "github_url": "https://github.com/docusign/docusign-esign-ruby-client",
         "display_name": "Docusign eSignature Ruby SDK",
         "description": "The official Docusign eSignature Ruby SDK (Client Library) used to interact with the Docusign eSignature REST API. Send, sign, and approve documents using this client",
@@ -180,7 +180,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzMjUxNDc4MzY=",
         "github_name": "docusign-click-java-client",
         "github_url": "https://github.com/docusign/docusign-click-java-client",
-        "display_name": "DocuSign Java Click SDK",
+        "display_name": "Docusign Java Click SDK",
         "description": "The official Docusign Click Java SDK (Client Library) used to interact with the Docusign Click API.",
         "language": "java",
         "tags": [ "opensource", "java", "click", "client-library", "sdk" ]
@@ -189,7 +189,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MjAwNjY=",
         "github_name": "docusign-click-php-client",
         "github_url": "https://github.com/docusign/docusign-click-php-client",
-        "display_name": "DocuSign PHP Click SDK",
+        "display_name": "Docusign PHP Click SDK",
         "description": "The official Docusign Click PHP SDK (Client Library) used to interact with the Docusign Click API.",
         "language": "php",
         "tags": [ "opensource", "php", "click", "client-library", "sdk" ]
@@ -198,7 +198,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MTk4Mzk=",
         "github_name": "docusign-click-csharp-client",
         "github_url": "https://github.com/docusign/docusign-click-csharp-client",
-        "display_name": "DocuSign C# Click SDK",
+        "display_name": "Docusign C# Click SDK",
         "description": "The official Docusign Click C# SDK (Client Library) used to interact with the Docusign Click API.",
         "language": "c#",
         "tags": [ "opensource", "csharp", "click", "client-library", "sdk" ]
@@ -207,7 +207,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MjExMDY=",
         "github_name": "docusign-click-node-client",
         "github_url": "https://github.com/docusign/docusign-click-node-client",
-        "display_name": "DocuSign Node Click SDK",
+        "display_name": "Docusign Node Click SDK",
         "description": "The official Docusign Click Node.js SDK (Client Library) used to interact with the Docusign Click API.",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "node", "click", "client-library", "sdk" ]
@@ -216,7 +216,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzMjI2NTY5ODE=",
         "github_name": "docusign-click-python-client",
         "github_url": "https://github.com/docusign/docusign-click-python-client",
-        "display_name": "DocuSign Python Click SDK",
+        "display_name": "Docusign Python Click SDK",
         "description": "The official Docusign Click Python SDK (Client Library) used to interact with the Docusign Click API.",
         "language": "python",
         "tags": [ "opensource", "python", "click", "client-library", "sdk" ]
@@ -225,7 +225,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzMjI0MTk3MDI=",
         "github_name": "docusign-click-ruby-client",
         "github_url": "https://github.com/docusign/docusign-click-ruby-client",
-        "display_name": "DocuSign Ruby Click SDK",
+        "display_name": "Docusign Ruby Click SDK",
         "description": "The official Docusign Click Ruby SDK (Client Library) used to interact with the Docusign Click API.",
         "language": "ruby",
         "tags": [ "opensource", "ruby", "click", "client-library", "sdk" ]
@@ -234,7 +234,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzNjc0NjM0MTM=",
         "github_name": "docusign-monitor-java-client",
         "github_url": "https://github.com/docusign/docusign-monitor-java-client",
-        "display_name": "DocuSign Java Monitor SDK",
+        "display_name": "Docusign Java Monitor SDK",
         "description": "The official Docusign Monitor Java SDK (Client Library) used to interact with the Docusign Monitor API.",
         "language": "java",
         "tags": [ "opensource", "java", "monitor", "client-library", "sdk" ]
@@ -243,7 +243,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxNzM3Nzk=",
         "github_name": "docusign-monitor-php-client",
         "github_url": "https://github.com/docusign/docusign-monitor-php-client",
-        "display_name": "DocuSign PHP Monitor SDK",
+        "display_name": "Docusign PHP Monitor SDK",
         "description": "The official Docusign Monitor PHP SDK (Client Library) used to interact with the Docusign Monitor API.",
         "language": "php",
         "tags": [ "opensource", "php", "monitor", "client-library", "sdk" ]
@@ -252,7 +252,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzNjg2Njk5OTk=",
         "github_name": "docusign-monitor-csharp-client",
         "github_url": "https://github.com/docusign/docusign-monitor-csharp-client",
-        "display_name": "DocuSign C# Monitor SDK",
+        "display_name": "Docusign C# Monitor SDK",
         "description": "The official Docusign Monitor C# SDK (Client Library) used to interact with the Docusign Monitor API.",
         "language": "c#",
         "tags": [ "opensource", "csharp", "monitor", "client-library", "sdk" ]
@@ -261,7 +261,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxODE5MTE=",
         "github_name": "docusign-monitor-node-client",
         "github_url": "https://github.com/docusign/docusign-monitor-node-client",
-        "display_name": "DocuSign Node Monitor SDK",
+        "display_name": "Docusign Node Monitor SDK",
         "description": "The official Docusign Monitor Node.js SDK (Client Library) used to interact with the Docusign Monitor API.",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "node", "monitor", "client-library", "sdk" ]
@@ -270,7 +270,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzNjg2NjI5OTI=",
         "github_name": "docusign-monitor-python-client",
         "github_url": "https://github.com/docusign/docusign-monitor-python-client",
-        "display_name": "DocuSign Python Monitor SDK",
+        "display_name": "Docusign Python Monitor SDK",
         "description": "The official Docusign Monitor Python SDK (Client Library) used to interact with the Docusign Monitor API.",
         "language": "python",
         "tags": [ "opensource", "python", "monitor", "client-library", "sdk" ]
@@ -279,10 +279,64 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkzNjcxOTk3NjI=",
         "github_name": "docusign-monitor-ruby-client",
         "github_url": "https://github.com/docusign/docusign-monitor-ruby-client",
-        "display_name": "DocuSign Ruby Monitor SDK",
+        "display_name": "Docusign Ruby Monitor SDK",
         "description": "The official Docusign Monitor Ruby SDK (Client Library) used to interact with the Docusign Monitor API.",
         "language": "ruby",
         "tags": [ "opensource", "ruby", "monitor", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "R_kgDOLpZViw",
+        "github_name": "docusign-maestro-java-client",
+        "github_url": "https://github.com/docusign/docusign-maestro-java-client",
+        "display_name": "Docusign Java Maestro SDK",
+        "description": "The official Docusign Maestro Java SDK (Client Library) used to interact with the Docusign Maestro API.",
+        "language": "java",
+        "tags": [ "opensource", "java", "maestro", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "R_kgDOLpZgVw",
+        "github_name": "docusign-maestro-php-client",
+        "github_url": "https://github.com/docusign/docusign-maestro-php-client",
+        "display_name": "Docusign PHP Maestro SDK",
+        "description": "The official Docusign Maestro PHP SDK (Client Library) used to interact with the Docusign Maestro API.",
+        "language": "php",
+        "tags": [ "opensource", "php", "maestro", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "R_kgDOLpZVhg",
+        "github_name": "docusign-maestro-csharp-client",
+        "github_url": "https://github.com/docusign/docusign-maestro-csharp-client",
+        "display_name": "Docusign C# Maestro SDK",
+        "description": "The official Docusign Maestro C# SDK (Client Library) used to interact with the Docusign Maestro API.",
+        "language": "c#",
+        "tags": [ "opensource", "csharp", "maestro", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "R_kgDOLGucuQ",
+        "github_name": "docusign-maestro-node-client",
+        "github_url": "https://github.com/docusign/docusign-maestro-node-client",
+        "display_name": "Docusign Node Maestro SDK",
+        "description": "The official Docusign Maestro Node.js SDK (Client Library) used to interact with the Docusign Maestro API.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "node", "maestro", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "R_kgDOLpUOow",
+        "github_name": "docusign-maestro-python-client",
+        "github_url": "https://github.com/docusign/docusign-maestro-python-client",
+        "display_name": "Docusign Python Maestro SDK",
+        "description": "The official Docusign Maestro Python SDK (Client Library) used to interact with the Docusign Maestro API.",
+        "language": "python",
+        "tags": [ "opensource", "python", "maestro", "client-library", "sdk" ]
+      },
+      {
+        "node_id": "R_kgDOLpZVTA",
+        "github_name": "docusign-maestro-ruby-client",
+        "github_url": "https://github.com/docusign/docusign-maestro-ruby-client",
+        "display_name": "Docusign Ruby Maestro SDK",
+        "description": "The official Docusign Maestro Ruby SDK (Client Library) used to interact with the Docusign Maestro API.",
+        "language": "ruby",
+        "tags": [ "opensource", "ruby", "maestro", "client-library", "sdk" ]
       }
     ],
     "Code Examples": [
@@ -308,8 +362,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTAyNjA5ODI=",
         "github_name": "qs-02-node-send-envelope",
         "github_url": "https://github.com/docusign/qs-02-node-send-envelope",
-        "display_name": "DocuSign Node.js Quickstart Example for Sending an Envelope",
-        "description": "DocuSign Node.js Quickstart Example enables developers to easily and quickly start with Docusign eSignature REST API to send an envelope",
+        "display_name": "Docusign Node.js Quickstart Example for Sending an Envelope",
+        "description": "Docusign Node.js Quickstart Example enables developers to easily and quickly start with Docusign eSignature REST API to send an envelope",
         "language": "javascript",
         "tags": []
       },
@@ -317,8 +371,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTA5NDU1MTU=",
         "github_name": "qs-03-node-list-envelopes",
         "github_url": "https://github.com/docusign/qs-03-node-list-envelopes",
-        "display_name": "DocuSign Node.js Quickstart Example for Listing Envelopes",
-        "description": "DocuSign Node.js Quickstart Example enables developers to easily and quickly start with Docusign eSignature REST API to list envelopes",
+        "display_name": "Docusign Node.js Quickstart Example for Listing Envelopes",
+        "description": "Docusign Node.js Quickstart Example enables developers to easily and quickly start with Docusign eSignature REST API to list envelopes",
         "language": "javascript",
         "tags": []
       },
@@ -326,8 +380,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTIwNDI1MjM=",
         "github_name": "qs-python",
         "github_url": "https://github.com/docusign/qs-python",
-        "display_name": "DocuSign Python Quickstart Examples",
-        "description": "DocuSign Python Quickstart Examples for the Docusign eSignature REST API",
+        "display_name": "Docusign Python Quickstart Examples",
+        "description": "Docusign Python Quickstart Examples for the Docusign eSignature REST API",
         "language": "python",
         "tags": []
       },
@@ -335,8 +389,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTI0MDQyNzk=",
         "github_name": "qs-csharp",
         "github_url": "https://github.com/docusign/qs-csharp",
-        "display_name": "DocuSign C# Quickstart Examples",
-        "description": "DocuSign C# Quickstart Examples for the Docusign eSignature REST API",
+        "display_name": "Docusign C# Quickstart Examples",
+        "description": "Docusign C# Quickstart Examples for the Docusign eSignature REST API",
         "language": "c#",
         "tags": []
       },
@@ -344,8 +398,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTMwNTY5MzE=",
         "github_name": "qs-php",
         "github_url": "https://github.com/docusign/qs-php",
-        "display_name": "DocuSign PHP Quickstart Examples",
-        "description": "DocuSign PHP Quickstart Examples for the Docusign eSignature REST API",
+        "display_name": "Docusign PHP Quickstart Examples",
+        "description": "Docusign PHP Quickstart Examples for the Docusign eSignature REST API",
         "language": "php",
         "tags": []
       },
@@ -353,8 +407,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNTU1NTAzMzI=",
         "github_name": "qs-curl",
         "github_url": "https://github.com/docusign/qs-curl",
-        "display_name": "DocuSign Curl Quickstart Examples",
-        "description": "DocuSign Curl Quickstart Examples for the Docusign eSignature REST API",
+        "display_name": "Docusign Curl Quickstart Examples",
+        "description": "Docusign Curl Quickstart Examples for the Docusign eSignature REST API",
         "language": "shell",
         "tags": []
       },
@@ -362,8 +416,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjE2MDI5NDY=",
         "github_name": "qs-java",
         "github_url": "https://github.com/docusign/qs-java",
-        "display_name": "DocuSign Java Quickstart Examples",
-        "description": "DocuSign Java Quickstart Examples for the Docusign eSignature REST API",
+        "display_name": "Docusign Java Quickstart Examples",
+        "description": "Docusign Java Quickstart Examples for the Docusign eSignature REST API",
         "language": "java",
         "tags": []
       },
@@ -371,8 +425,8 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxNjM1ODM1OTk=",
         "github_name": "qs-ruby",
         "github_url": "https://github.com/docusign/qs-ruby",
-        "display_name": "DocuSign Ruby Quickstart Examples",
-        "description": "DocuSign Ruby Quickstart Examples for the Docusign eSignature REST API",
+        "display_name": "Docusign Ruby Quickstart Examples",
+        "description": "Docusign Ruby Quickstart Examples for the Docusign eSignature REST API",
         "language": "ruby",
         "tags": []
       },
@@ -471,7 +525,7 @@
         "github_name": "recipe-dsa-014-web-agent",
         "github_url": "https://github.com/docusign/recipe-dsa-014-web-agent",
         "display_name": "DSA Web Agent code example",
-        "description": "DocuSign Signature Appliance (DSA) - code example for integrating with the Web Agent",
+        "description": "Docusign Signature Appliance (DSA) - code example for integrating with the Web Agent",
         "language": "javascript",
         "tags": []
       },
@@ -779,7 +833,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkxMDQ2MTkwMTg=",
         "github_name": "passport-docusign",
         "github_url": "https://github.com/docusign/passport-docusign",
-        "display_name": "DocuSign Passport",
+        "display_name": "Docusign Passport",
         "description": "The official Docusign Passport package can help developers build authentication flows into their Node apps",
         "language": "javascript",
         "tags": [ "opensource", "javascript", "tool", "authentication" ]
@@ -999,7 +1053,7 @@
         "node_id": "MDEwOlJlcG9zaXRvcnkyNTk3Nzk0Njg=",
         "github_name": "docusign-template-library",
         "github_url": "https://github.com/docusign/docusign-template-library",
-        "display_name": "DocuSign template library",
+        "display_name": "Docusign template library",
         "description": "The Docusign template library can be used to share templates that can be useful developers when building apps",
         "language": "json",
         "tags": [ "opensource", "json", "template" ]
