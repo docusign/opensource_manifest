@@ -859,6 +859,15 @@
     ],
     "Sample Apps": [
       {
+        "node_id": "R_kgDOMXNrpA",
+        "github_name": "sample-app-mymaestro-node",
+        "github_url": "sample-app-mymaestro-node",
+        "display_name": "MyMaestro Sample App",
+        "description": "MyMaestro showcases how the Maestro API can be used to create workflow definitions and trigger, cancel, and get status updates for workflow instances",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "html", "maestro", "sample-app" ]
+      },
+      {
         "node_id": "R_kgDOLYUZsw",
         "github_name": "sample-app-mywebforms-csharp",
         "github_url": "https://github.com/docusign/sample-app-mywebforms-csharp",
