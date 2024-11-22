@@ -859,6 +859,24 @@
     ],
     "Sample Apps": [
       {
+        "node_id": "R_kgDONRalNA",
+        "github_name": "sample-app-navigator-node",
+        "github_url": "https://github.com/docusign/sample-app-navigator-node",
+        "display_name": "Navigator Sample App",
+        "description": "The Navigator Sample App showcases how the Navigator API (beta) can be used to get agreement details.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "navigator", "sample-app" ]
+      },
+      {
+        "node_id": "R_kgDONCdnFQ",
+        "github_name": "sample-app-business-csharp",
+        "github_url": "https://github.com/docusign/sample-app-business-csharp",
+        "display_name": "Business Sample App",
+        "description": "The Business sample app showcases the ISV solution patterns, best practices, and often overlooked but high value features to consider when building Docusign eSignature into a business software product.",
+        "language": "csharp",
+        "tags": [ "opensource", "csharp", "typescript", "isv", "sample-app" ]
+      },
+      {
         "node_id": "R_kgDOMXNrpA",
         "github_name": "sample-app-mymaestro-node",
         "github_url": "sample-app-mymaestro-node",
