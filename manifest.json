@@ -859,6 +859,15 @@
     ],
     "Sample Apps": [
       {
+        "node_id": "R_kgDONkZb3g",
+        "github_name": "sample-app-embeddedsending-node",
+        "github_url": "https://github.com/docusign/sample-app-embeddedsending-node",
+        "display_name": "Embedded Sending Sample App",
+        "description": "The Embedded Sending Sample App showcases how Docusign's embedded sending feature can be used to build embedded workflows for sending and managing documents.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "embedded-sending", "sample-app" ]
+      },
+      {
         "node_id": "R_kgDONRalNA",
         "github_name": "sample-app-navigator-node",
         "github_url": "https://github.com/docusign/sample-app-navigator-node",
