@@ -28,7 +28,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli", "framework", "web", "server", "front-end", "cli" ]
       }
     ],
     "Front End Frameworks": [
@@ -39,16 +39,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
-      },
-      {
-        "node_id": "R_kgDOOPUqYw",
-        "github_name": "1fe-child-starter-widget",
-        "github_url": "https://github.com/docusign/1fe-child-starter-widget",
-        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
-        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
-        "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOmTnSw",
@@ -57,7 +48,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOpnKgw",
@@ -66,7 +57,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOpnP6A",
@@ -75,7 +66,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOybMDQ",
@@ -84,7 +75,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOvgrZg",
@@ -93,7 +84,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOpnZGg",
@@ -102,7 +93,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOpnWOw",
@@ -111,7 +102,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       },
       {
         "node_id": "R_kgDOOpnTDQ",
@@ -120,7 +111,7 @@
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
-        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       }
     ],
     "SDKs": [
