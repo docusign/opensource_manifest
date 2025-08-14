@@ -70,8 +70,8 @@
       },
       {
         "node_id": "R_kgDOOybMDQ",
-        "github_name": "1fe-widget-starter-app",
-        "github_url": "https://github.com/docusign/1fe-widget-starter-app",
+        "github_name": "1fe-starter-app",
+        "github_url": "https://github.com/docusign/1fe-starter-app",
         "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
         "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
         "language": "javascript",
