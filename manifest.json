@@ -1,6 +1,6 @@
 {
   "languages": [ "java", "php", "objective-c", "c#", "javascript", "python", "apex", "html", "ruby", "shell", "json", "kotlin" ],
-  "categories": [ "Featured", "SDKs", "Code Examples", "Tools", "Sample Apps", "Others" ],
+  "categories": [ "Featured", "Front End Frameworks", "SDKs", "Code Examples", "Tools", "Sample Apps", "Others" ],
   "repositories": {
     "Featured": [
       {
@@ -22,13 +22,96 @@
         "tags": [ "opensource", "csharp", "javascript", "html", "esignature", "click", "sample-app" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnk3MDY0MDQyMw==",
-        "github_name": "postman-esign-api-collection",
-        "github_url": "https://github.com/docusign/postman-esign-api-collection",
-        "display_name": "Postman Collection for the Docusign eSignature REST API",
-        "description": "A easy guide to getting started with the Docusign eSignature REST API using Postman",
-        "language": "json",
-        "tags": [ "opensource", "json", "postman" ]
+        "node_id": "R_kgDONcx0pA",
+        "github_name": "1fe",
+        "github_url": "https://github.com/docusign/1fe",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli", "framework", "web", "server", "front-end", "cli" ]
+      }
+    ],
+    "Front End Frameworks": [
+      {
+        "node_id": "R_kgDONcx0pA",
+        "github_name": "1fe",
+        "github_url": "https://github.com/docusign/1fe",
+        "display_name": "1fe monorepo",
+        "description": "Centralized repository publishing core 1fe packages needed for a 1fe instance.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOybMDQ",
+        "github_name": "1fe-starter-app",
+        "github_url": "https://github.com/docusign/1fe-starter-app",
+        "display_name": "Sample 1fe instance",
+        "description": "Sample 1fe instance that powers demo.1fe.com.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOpnTDQ",
+        "github_name": "1fe-playground",
+        "github_url": "https://github.com/docusign/1fe-playground",
+        "display_name": "1fe playground plugin",
+        "description": "A sample plugin that creates a sandbox environment for loading widgets/plugins alongside all other plugins in the ecosystem.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOpnP6A",
+        "github_name": "1fe-widget-starter-kit",
+        "github_url": "https://github.com/docusign/1fe-widget-starter-kit",
+        "display_name": "1fe widget starter kit",
+        "description": "The template for creating new widgets and plugins in a 1fe instance.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOvgrZg",
+        "github_name": "1fe-ci-cd",
+        "github_url": "https://github.com/docusign/1fe-ci-cd",
+        "display_name": "CI/CD templates for a 1fe instance",
+        "description": "Reusable CI/CD pipeline shared by all widgets in a 1fe instance to standardize ci/cd.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOpnKgw",
+        "github_name": "1fe-sample-widget-base-config",
+        "github_url": "https://github.com/docusign/1fe-sample-widget-base-config",
+        "display_name": "Sample shared config for a 1fe instance",
+        "description": "An example of how to manage shared configurations for your widgets.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOmTnSw",
+        "github_name": "docusign/1fe-docs",
+        "github_url": "https://github.com/docusign/1fe-docs",
+        "display_name": "1fe docs",
+        "description": "Documentation for 1fe as is seen on 1fe.com.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOpnZGg",
+        "github_name": "1fe-sample-widget",
+        "github_url": "https://github.com/docusign/1fe-sample-widget",
+        "display_name": "Sample widget",
+        "description": "A sample 1fe widget showcasing how to use the event bus utility for inter-widget communication.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
+      },
+      {
+        "node_id": "R_kgDOOpnWOw",
+        "github_name": "1fe-sample-widget-with-auth",
+        "github_url": "https://github.com/docusign/1fe-sample-widget-with-auth",
+        "display_name": "Sample widget with auth",
+        "description": "A sample 1fe widget demonstrating how to implement and use authentication within the 1fe ecosystem.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "frontend", "micro-frontend", "app-shell", "micro-frontends", "framework", "web", "server", "front-end", "cli" ]
       }
     ],
     "SDKs": [
