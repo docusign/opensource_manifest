@@ -1,6 +1,6 @@
 {
   "languages": [ "java", "php", "objective-c", "c#", "javascript", "python", "apex", "html", "ruby", "shell", "json", "kotlin" ],
-  "categories": [ "Featured", "SDKs", "Code Examples", "Tools", "Sample Apps", "Others" ],
+  "categories": [ "Featured", "Front End Frameworks", "SDKs", "Code Examples", "Tools", "Sample Apps", "Others" ],
   "repositories": {
     "Featured": [
       {
@@ -22,13 +22,105 @@
         "tags": [ "opensource", "csharp", "javascript", "html", "esignature", "click", "sample-app" ]
       },
       {
-        "node_id": "MDEwOlJlcG9zaXRvcnk3MDY0MDQyMw==",
-        "github_name": "postman-esign-api-collection",
-        "github_url": "https://github.com/docusign/postman-esign-api-collection",
-        "display_name": "Postman Collection for the Docusign eSignature REST API",
-        "description": "A easy guide to getting started with the Docusign eSignature REST API using Postman",
-        "language": "json",
-        "tags": [ "opensource", "json", "postman" ]
+        "node_id": "R_kgDONcx0pA",
+        "github_name": "1fe",
+        "github_url": "https://github.com/docusign/1fe",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      }
+    ],
+    "Front End Frameworks": [
+      {
+        "node_id": "R_kgDONcx0pA",
+        "github_name": "1fe",
+        "github_url": "https://github.com/docusign/1fe",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOPUqYw",
+        "github_name": "1fe-child-starter-widget",
+        "github_url": "https://github.com/docusign/1fe-child-starter-widget",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOmTnSw",
+        "github_name": "docusign/1fe-docs",
+        "github_url": "https://github.com/docusign/docusign/1fe-docs",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOpnKgw",
+        "github_name": "1fe-sample-widget-base-config",
+        "github_url": "https://github.com/docusign/1fe-sample-widget-base-config",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOpnP6A",
+        "github_name": "1fe-widget-starter-kit",
+        "github_url": "https://github.com/docusign/1fe-widget-starter-kit",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOybMDQ",
+        "github_name": "1fe-widget-starter-app",
+        "github_url": "https://github.com/docusign/1fe-widget-starter-app",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOvgrZg",
+        "github_name": "1fe-ci-cd",
+        "github_url": "https://github.com/docusign/1fe-ci-cd",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOpnZGg",
+        "github_name": "1fe-sample-widget",
+        "github_url": "https://github.com/docusign/1fe-sample-widget",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOpnWOw",
+        "github_name": "1fe-sample-widget-with-auth",
+        "github_url": "https://github.com/docusign/1fe-sample-widget-with-auth",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
+      },
+      {
+        "node_id": "R_kgDOOpnTDQ",
+        "github_name": "1fe-playground",
+        "github_url": "https://github.com/docusign/1fe-playground",
+        "display_name": "Unify Front Ends, Accelerate Delivery with 1fe",
+        "description": "A centralized platform that standardizes the development, deployment, and execution of frontend experiences within a unified app shell and shared infrastructure.",
+        "language": "javascript",
+        "tags": [ "opensource", "javascript", "typescript", "react", "angular", "vue", "frontend", "app-shell", "micro-frontends" ]
       }
     ],
     "SDKs": [
