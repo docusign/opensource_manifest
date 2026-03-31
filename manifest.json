@@ -982,7 +982,7 @@
         "github_name": "sample-app-webforms-csharp",
         "github_url": "https://github.com/docusign/sample-app-webforms-csharp",
         "display_name": "Web Forms Sample App",
-        "description": "The Web Forms Sample App showscases how Web Forms and the Web Forms API can be used in the financial industry",
+        "description": "The Web Forms Sample App showcases how Web Forms and the Web Forms API can be used in the financial industry",
         "language": "c#",
         "tags": [ "opensource", "csharp", "html", "web-forms", "sample-app" ]
       },
@@ -991,7 +991,7 @@
         "github_name": "sample-app-documentgeneration-php",
         "github_url": "https://github.com/docusign/sample-app-documentgeneration-php",
         "display_name": "Document Generation Sample App",
-        "description": "The Document Generation Sample App showscases how Document Generation technology can be used in the financial, HR, and legal industries",
+        "description": "The Document Generation Sample App showcases how Document Generation technology can be used in the financial, HR, and legal industries",
         "language": "php",
         "tags": [ "opensource", "php", "html", "esignature", "sample-app" ]
       },
