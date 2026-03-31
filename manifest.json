@@ -1028,7 +1028,7 @@
         "github_url": "https://github.com/docusign/sample-app-workspaces-csharp",
         "display_name": "Workspaces Sample App",
         "description": "The Workspaces Sample App illustrates how organizations use the Workspaces API to manage, share, and approve critical documents across teams and clients",
-        "language": "python",
+        "language": "c#",
         "tags": [ "opensource", "csharp", "javascript", "html", "workspaces", "sample-app" ]
       },
       {
